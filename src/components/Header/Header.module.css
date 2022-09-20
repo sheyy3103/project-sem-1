@@ -1,0 +1,21 @@
+.logo-custom {
+    width: 75px !important;
+}
+.ip-custom{
+    border: none;
+    outline: none;
+    margin-left: 10px;
+    font-size: 25px !important;
+}
+.form-custom{
+    margin-left: 55px !important;
+    border-bottom: 1px solid #777777;
+    font-size: 30px;
+    color: #777777 !important;
+}
+.nav-custom{
+    font-size: 25px !important;
+}
+.icon-custom{
+    font-size: 35px !important;
+}
