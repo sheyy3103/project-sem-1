@@ -1,21 +1,24 @@
 .logo-custom {
     width: 75px !important;
 }
-.ip-custom{
+.ip-custom {
     border: none;
     outline: none;
     margin-left: 10px;
+    width: 400px;
     font-size: 25px !important;
 }
-.form-custom{
-    margin-left: 55px !important;
+
+.form-custom {
     border-bottom: 1px solid #777777;
     font-size: 30px;
-    color: #777777 !important;
+    margin-left: 40px;
 }
-.nav-custom{
+.nav-custom {
     font-size: 25px !important;
 }
-.icon-custom{
+
+.icon-custom {
     font-size: 35px !important;
+    color: black !important;
 }

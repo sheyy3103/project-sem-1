@@ -2,3 +2,6 @@
     background-color: #252531;
     color: white;
 }
+.map-no-border{
+    border: 0 !important;
+}

@@ -6,10 +6,10 @@ import className from 'classnames/bind'
 import styles from './Masterlayout.module.css'
 let cx = className.bind(styles)
 
-function Masterlayout({children}) {
-  return (
-    <div>
-            <div>
+function Masterlayout({ children }) {
+    return (
+        <div className={cx('quattrocento')}>
+            <div className={cx('bg-white','fixed-top')}>
                 <Header />
             </div>
             <div className={cx('chil')}>
@@ -19,7 +19,7 @@ function Masterlayout({children}) {
                 <Footer />
             </div>
         </div>
-  )
+    )
 }
 
 export default Masterlayout

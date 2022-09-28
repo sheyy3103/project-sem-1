@@ -1,3 +1,10 @@
+@font-face {
+    font-family: quattrocento;
+    src: url(../font/Quattrocento-Regular.ttf);
+}
+.quattrocento{
+    font-family: 'quattrocento';
+}
 .chil{
     padding-top: 75px;
 }
