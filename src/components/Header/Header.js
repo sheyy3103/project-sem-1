@@ -3,7 +3,8 @@ import logo2 from '../../images/logo2.png';
 import styles from './Header.module.css';
 import classNames from 'classnames/bind';
 import { Link } from 'react-router-dom';
-import {AiOutlineSearch, AiOutlineShoppingCart, AiOutlineUser} from 'react-icons/ai';
+import {AiOutlineSearch, AiOutlineUser} from 'react-icons/ai';
+import {IoCartOutline} from 'react-icons/io5'
 let cx = classNames.bind(styles)
 
 function Header() {
@@ -31,7 +32,7 @@ function Header() {
             <AiOutlineUser className='mx-5'/>
           </Link>
           <Link to="/" className={cx('icon-custom')}>
-            <AiOutlineShoppingCart/>
+            <IoCartOutline/>
             </Link>
         </div>
       </div>

@@ -1,6 +1,9 @@
 import React from 'react'
 import className from 'classnames/bind'
 import styles from './Footer.module.css'
+import payment from "../../images/payment.png"
+import {AiOutlineCopyrightCircle} from 'react-icons/ai'
+
 let cx = className.bind(styles)
 function Footer() {
   return (
@@ -28,11 +31,10 @@ function Footer() {
           </div>
           <div className="col-lg-4 text-left">
             <h3 className="font-weight-bold py-2">Thanh toán</h3>
-            <img src="./images/payment.png" alt="" className="img-fluid" />
+            <img src={payment} alt="" className="img-fluid" />
           </div>
           <div className="col-lg-12 py-3 text-center">
-            <p className="font-italic font-weight-light"><sup><i
-              className="fa-regular fa-copyright"></i></sup>&nbsp;2022
+            <p className="font-italic font-weight-light"><sup><AiOutlineCopyrightCircle /></sup>&nbsp;2022
               Desinged and developed by Sheyy</p>
           </div>
         </div>

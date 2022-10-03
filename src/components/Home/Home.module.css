@@ -1,0 +1,77 @@
+.bg-undercarousel {
+    background-color: #001F33;
+    color: white !important;
+}
+
+.undercarousel {
+    font-size: 30px;
+    border-right: 3px solid white;
+}
+
+.ads-icon {
+    font-size: 40px !important;
+}
+
+.undercarousel-noborder {
+    font-size: 30px !important;
+}
+
+
+.border-radius-none {
+    border-radius: 0 !important;
+}
+
+img.card-img-top {
+    border-radius: 0 !important;
+}
+
+.fz15 {
+    font-size: 15px !important;
+}
+
+.fz18 {
+    font-size: 18px !important;
+}
+
+.card-home{
+    border-radius: 0 !important;
+    border: none !important;
+    width: 28rem !important;
+}
+
+.border-cus {
+    --color: orangered;
+    --position: center bottom;
+    --width: 5%;
+    --height: 5px;
+    background: linear-gradient(var(--color), var(--color)) var(--position) / var(--width) var(--height) no-repeat;
+    padding-bottom: 10px;
+    font: bold 2.5rem sans-serif;
+}
+
+.news-home{
+    border-radius: 0 !important;
+    width: 20rem;
+    
+}
+
+.product-home{
+    border-radius: 0 !important;
+    width: 14rem;
+    border: none !important;
+}
+
+.btn-details {
+    background-color: rgb(247, 19, 19) !important;
+    border-radius: 0 !important;
+    color: white;
+    font-weight: bolder;
+}
+
+.btn-details:hover {
+    color: white !important;
+}
+
+.fz20{
+    font-size: 20px !important;
+}
