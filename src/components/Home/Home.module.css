@@ -42,7 +42,7 @@ img.card-img-top {
 .border-cus {
     --color: orangered;
     --position: center bottom;
-    --width: 5%;
+    --width: 6%;
     --height: 5px;
     background: linear-gradient(var(--color), var(--color)) var(--position) / var(--width) var(--height) no-repeat;
     padding-bottom: 10px;

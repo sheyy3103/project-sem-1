@@ -6,7 +6,7 @@
             "category": "Nội thất gia đình",
             "category_id": 901,
             "price": 3850000,
-            "img": "mauweb.monamedia.net/uma/wp-content/uploads/2018/03/bo-ban-ghe-an-go-hinh-oval-sang-trong-hba152-600x600-1-600x600.jpg",
+            "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/bo-ban-ghe-an-go-hinh-oval-sang-trong-hba152-600x600-1-600x600.jpg",
             "description": "Bàn ăn gỗ tự nhiên toàn bộ. Mặt bàn Verneer hình Oval. Mang cảm hứng ấn tượng, nhẹ nhàng vào trong bộ sưu tập TB06V tạo một hiệu ứng thẩm mỹ cao cấp, giúp không gian của bạn thêm tỏa sáng, hiện đại. Khung bàn gỗ tự nhiên toàn bộ, tần bì hoặc Acacia có khả năng chống ẩm mốc, chịu tác động lực lớn, không trầy xước, độ bền cao. Mặt bàn Verneer hình Oval  với các góc cạnh lượn cong giật cấp thanh thoát. Chân bàn với 4 chân hình trụ tiện cong hình sóng tạo sự kiên cố, thẩm mỹ cho bàn. Gam màu nâu đỏ cổ điển làm chủ đạo cùng bề mặt trơn láng mịn màng tạo sự ấm áp, nhã nhặn cho không gian. Bàn ăn gỗ kết hợp với ghế gỗ sử dụng trong gia đình, khách sạn, trường học,… đều phù hợp.",
             "popular": false
         },
@@ -116,6 +116,7 @@
             "category": "Nội thất y tế",
             "category_id": 902,
             "price": 1322000,
+            "img":"http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/33-600x600.jpg",
             "description": "Xe 2 tầng, có móc treo đồ, dụng cụ. Một vành tròn để xô đựng nước. Xe đẩy y tế được sử dụng tại bệnh viện, phòng khám tư nhân dùng để tiêm, phân phát thuốc… Sản phẩm có kết cấu chắc chắn, sử dụng linh hoạt, thuận tiện. Sản phẩm có giá bán hợp lý là sự lựa chọn tốt cho khách hàng.",
             "popular": false
         },
@@ -219,7 +220,7 @@
             "popular": true
         },
         {
-            "id": 22,
+            "id": 23,
             "name": "Bàn DT1680H24",
             "category": "Bàn",
             "category_id": 905,
@@ -229,7 +230,7 @@
             "popular": false
         },
         {
-            "id": 23,
+            "id": 24,
             "name": "Ghế phòng chờ",
             "category": "Ghế",
             "category_id": 906,
@@ -239,7 +240,7 @@
             "popular": false
         },
         {
-            "id": 24,
+            "id": 25,
             "name": "Bộ ghế hơi",
             "category": "Ghế",
             "category_id": 906,
@@ -249,7 +250,7 @@
             "popular": false
         },
         {
-            "id": 25,
+            "id": 26,
             "name": "Ghế lưới GL140",
             "category": "Ghế",
             "category_id": 906,
@@ -259,7 +260,7 @@
             "popular": true
         },
         {
-            "id": 26,
+            "id": 27,
             "name": "Tượng Cobra",
             "category": "Đồ trang trí",
             "category_id": 907,
@@ -269,7 +270,7 @@
             "popular": false
         },
         {
-            "id": 27,
+            "id": 28,
             "name": "Bình khói Kanoi",
             "category": "Đồ trang trí",
             "category_id": 907,
@@ -279,7 +280,7 @@
             "popular": false
         },
         {
-            "id": 28,
+            "id": 29,
             "name": "Đồng hồ Wire",
             "category": "Đồ trang trí",
             "category_id": 907,
@@ -289,7 +290,7 @@
             "popular": false
         },
         {
-            "id": 29,
+            "id": 30,
             "name": "Cây chanh giả",
             "category": "Đồ trang trí",
             "category_id": 907,
@@ -299,7 +300,7 @@
             "popular": false
         },
         {
-            "id": 30,
+            "id": 31,
             "name": "Bình hoa Luv",
             "category": "Đồ trang trí",
             "category_id": 907,

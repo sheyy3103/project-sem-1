@@ -17,10 +17,10 @@ function Header() {
         <div className="col-lg-9 d-flex justify-content-between align-items-center p-0">
           <nav className="navbar navbar-light bg-white">
             <Link to="/" className={cx('navbar-brand', 'mx-3', 'nav-custom')}>Trang chủ</Link>
-            <Link to="/" className={cx('navbar-brand', 'mx-3', 'nav-custom')}>Giới thiệu</Link>
+            <Link to="/about" className={cx('navbar-brand', 'mx-3', 'nav-custom')}>Giới thiệu</Link>
             <Link to="/" className={cx('navbar-brand', 'mx-3', 'nav-custom')}>Sản phẩm</Link>
             <Link to="/" className={cx('navbar-brand', 'mx-3', 'nav-custom')}>Tin tức</Link>
-            <Link to="/" className={cx('navbar-brand', 'mx-3', 'nav-custom')}>Liên hệ</Link>
+            <Link to="/contact" className={cx('navbar-brand', 'mx-3', 'nav-custom')}>Liên hệ</Link>
             <form className={cx('form-custom')}>
               <AiOutlineSearch />
               <input className={cx('ip-custom')} placeholder="Tìm kiếm mọi thứ ở đây..." />

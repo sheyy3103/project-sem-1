@@ -1,0 +1,64 @@
+.contact-info {
+    font-size: 22px !important;
+    margin-left: 100px !important;
+}
+
+.fb a {
+    color: #212529 !important;
+}
+
+.fb a:hover {
+    text-decoration: none !important;
+}
+
+.contact-form {
+    margin: 0 115px !important;
+    padding-top: 20px;
+}
+
+.ip-name {
+    padding: 12px 10px;
+    width: 275px;
+}
+
+.ip-phone {
+    padding: 12px 10px;
+}
+
+.ip-mail {
+    padding: 12px 10px;
+    width: 500px;
+}
+
+.ip-mess {
+    padding: 12px 10px;
+    width: 500px;
+}
+
+.ip-name,
+.ip-phone,
+.ip-mail,
+.ip-mess {
+    border-radius: 0 !important;
+    font-size: 18px;
+    border: 1px solid #7c7c7c !important;
+}
+
+.btn-contact {
+    background-color: rgb(203, 6, 6) !important;
+    border-radius: 0 !important;
+    color: white;
+    text-transform: uppercase;
+    padding: 8px 60px !important;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.btn-contact:hover {
+    color: white;
+}
+
+.icon-contact {
+    width: 25px !important;
+    height: auto;
+}

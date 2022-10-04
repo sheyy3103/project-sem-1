@@ -1,6 +1,6 @@
 import * as http from "../http/http";
 
-const urlApi = 'http://localhost:3000/products'
+const urlApi = 'http://localhost:3000/product'
 
 export const getAllProducts = async () => {
     try {
