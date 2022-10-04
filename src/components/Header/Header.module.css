@@ -1,6 +1,7 @@
 .logo-custom {
     width: 75px !important;
 }
+
 .ip-custom {
     border: none;
     outline: none;
@@ -14,9 +15,11 @@
     font-size: 30px;
     margin-left: 30px;
 }
+
 .nav-custom {
     font-size: 25px !important;
 }
+
 
 .icon-custom {
     font-size: 40px !important;

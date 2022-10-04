@@ -18,7 +18,7 @@ function Contact() {
                         <img src={about} alt="" className="img-fluid" />
                     </div>
                     <div className="col-lg-6">
-                        <p className="h2 text-uppercase text-center py-1">sheyy'<small>s</small>&nbsp;family</p>
+                        <p className="h2 text-uppercase text-center py-1">sheyy'<span className='text-lowercase'>s</span>&nbsp;family</p>
                         <div className={cx('contact-info', 'my-2')}>
                             <div className="location d-flex align-items-center my-1">
                                 <span className={cx('icon-contact')}><GoLocation /></span>

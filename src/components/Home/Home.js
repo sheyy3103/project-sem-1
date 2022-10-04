@@ -1,11 +1,12 @@
 import React, { useEffect, useState } from 'react'
 import * as ProductServices from '../../services/ProductServices'
+import * as NewsServices from '../../services/NewsServices'
 import slide1 from "../../images/slide1.jpg"
 import slide2 from "../../images/slide2.jpg"
 import slide3 from "../../images/slide3.jpg"
 import home1 from "../../images/home1.jpg"
 import home2 from "../../images/home2.jpg"
-import { MdOutlineChair } from 'react-icons/md'
+import { MdOutlineChair, MdOutlineNavigateBefore, MdOutlineNavigateNext } from 'react-icons/md'
 import { FiTruck } from 'react-icons/fi'
 import { BsCreditCard } from 'react-icons/bs'
 import className from 'classnames/bind'
@@ -17,16 +18,37 @@ let cx = className.bind(styles)
 
 function Home() {
   const [products, setProducts] = useState([]);
-  const getData = () => {
+  const [news, setNews] = useState([]);
+  const [numPages, setNumPages] = useState(0);
+
+  // const getNews = () => {
+  //   const getNewsApi = async () => {
+  //     const newsData = await NewsServices.getNews(numPages);
+  //     setNews(newsData)
+  //   }
+  //   getNewsApi();
+  // }
+  // const getData = () => {
+  //   const getDataApi = async () => {
+  //     const data = await ProductServices.getAllProducts();
+  //     setProducts(data);
+  //   }
+  //   getDataApi();
+  // }
+  useEffect(() => {
     const getDataApi = async () => {
       const data = await ProductServices.getAllProducts();
       setProducts(data);
     }
+    const getNewsApi = async () => {
+      const newsData = await NewsServices.getNews(numPages);
+      setNews(newsData)
+    }
     getDataApi();
-  }
-  useEffect(() => {
-    getData();
-  }, [])
+    getNewsApi();
+    // getData();
+    // getNews();
+  }, [numPages])
   return (
     <div><div id="carouselExampleSlidesOnly" className="carousel slide" data-ride="carousel" data-interval="3000">
       <div className="carousel-inner">
@@ -92,25 +114,23 @@ function Home() {
         <div className={cx('border-cus')}></div>
       </div>
       <div className="container p-0 pt-5">
-        <div className="row justify-content-between">
-          <div className={cx('card', 'news-home')}>
-            <img className={cx('card-img-top')} src="./images/news1(2).png" alt="..." />
-            <div className="card-body p-0 m-0 p-1 m-1">
-              <p className={cx('card-text', 'fz-20', 'text-center')}>Không gian đẹp nhờ kết hợp các phong cách nội thất khác nhau</p>
-            </div>
-          </div>
-          <div className={cx('card', 'news-home')}>
-            <img className={cx('card-img-top')} src="./images/news2(2).png" alt="..." />
-            <div className="card-body p-0 m-0 p-1 m-1">
-              <p className={cx('card-text', 'fz-20', 'text-center')}>Những căn phòng mang đậm phong cách Bohemian</p>
-            </div>
-          </div>
-          <div className={cx('card', 'news-home')}>
-            <img className={cx('card-img-top')} src="./images/news3(2).png" alt="..." />
-            <div className="card-body p-0 m-0 p-1 m-1">
-              <p className={cx('card-text', 'fz-20', 'text-center')}>Căn hộ 25m<sup>2</sup> đẹp với nội thất cực kì hợp lí</p>
-            </div>
-          </div>
+        <div className="row justify-content-between align-items-center">
+          <button className={cx('btn', 'btn-change-num', 'btn-outline-secondary')} onClick={() => { numPages == 1 ? setNumPages(2) : setNumPages(1) }}><MdOutlineNavigateBefore /></button>
+          {
+            news.map((newsItem) => {
+              return (
+                <div key={newsItem.id}>
+                  <div className={cx('card', 'news-home')}>
+                    <div className="overflow-hidden"><img className={cx('card-img-top', 'home-news-img')} src={newsItem.bg_img} alt="..." /></div>
+                    <div className="card-body p-0 m-0 p-1 m-1 d-flex justify-content-center align-items-center">
+                      <p className={cx('card-text', 'fz-20', 'text-center','text-truncate')}>{newsItem.name}</p>
+                    </div>
+                  </div>
+                </div>
+              )
+            })
+          }
+          <button className={cx('btn', 'btn-change-num', 'btn-outline-secondary')} onClick={() => { numPages == 1 ? setNumPages(2) : setNumPages(1) }}><MdOutlineNavigateNext /></button>
         </div>
       </div>
       <div className="container-fluid pb-3">
@@ -118,11 +138,11 @@ function Home() {
         <div className={cx('border-cus')}></div>
       </div>
       <div className="container p-0">
-        <div className="row d-flex justify-content-between">
+        <div className="row align-items-center justify-content-between">
           {
             products.map((product) => {
               return product.popular === true ? (
-                <div className='col-lg-3' key={product.id}>
+                <div className="col-lg-3" key={product.id}>
                   <div className={cx('card', 'product-home')}>
                     <img className={cx('card-img-top')} src={product.img} alt="..." />
                     <div className="card-body text-center">

@@ -1,6 +1,7 @@
-.fz22{
+.fz22 {
     font-size: 22px !important;
 }
+
 .border-cus {
     --color: orangered;
     --position: center bottom;

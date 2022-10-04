@@ -1,7 +1,8 @@
-.bg-footer{
+.bg-footer {
     background-color: #252531;
     color: white;
 }
-.map-no-border{
+
+.map-no-border {
     border: 0 !important;
 }

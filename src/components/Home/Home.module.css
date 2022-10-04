@@ -33,7 +33,7 @@ img.card-img-top {
     font-size: 18px !important;
 }
 
-.card-home{
+.card-home {
     border-radius: 0 !important;
     border: none !important;
     width: 28rem !important;
@@ -49,13 +49,14 @@ img.card-img-top {
     font: bold 2.5rem sans-serif;
 }
 
-.news-home{
+.news-home {
     border-radius: 0 !important;
     width: 20rem;
-    
+    height: 275px;
+    border: 1px solid #ebebeb !important;
 }
 
-.product-home{
+.product-home {
     border-radius: 0 !important;
     width: 14rem;
     border: none !important;
@@ -72,6 +73,20 @@ img.card-img-top {
     color: white !important;
 }
 
-.fz20{
+.fz20 {
     font-size: 20px !important;
+}
+
+.home-news-img{
+    width: 600px;
+    height: auto;
+    
+}
+.btn-change-num{
+    width: 40px !important;
+    height: 40px !important;
+    border-radius: 0 !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

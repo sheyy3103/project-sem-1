@@ -8,9 +8,9 @@ let cx = classNames.bind(styles)
 function About() {
     return (
         <>
-            <div class="container-fluid">
-                <h1 class="text-uppercase text-center pt-4">công ty nội thất sheyy'<small>s</small> family</h1>
-                <div class={cx('border-cus')}></div>
+            <div className="container-fluid">
+                <h1 className="text-uppercase text-center pt-4">công ty nội thất sheyy'<small>s</small> family</h1>
+                <div className={cx('border-cus')}></div>
             </div>
             <div className="container-fluid px-5 pt-5">
                 <div className="row align-items-center">
