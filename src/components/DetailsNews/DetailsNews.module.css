@@ -1,31 +1,3 @@
-.bg-gray {
-    background-color: #f3f3f3;
-}
-
-.img-news {
-    border-radius: 0 !important;
-    border-bottom: 1px solid #808080 !important;
-    height: 250px;
-    width: 686px;
-}
-
-.media-cus {
-    border: 2px solid #808080 !important;
-}
-
-.card {
-    border-radius: 0 !important;
-}
-
-.card {
-    border-radius: 0 !important;
-    border: 1px solid #808080 !important;
-}
-
-.fz16 {
-    font-size: 16px !important;
-}
-
 .rounded-div{
     border-radius: 50%;
     width: 60px;
@@ -39,6 +11,10 @@
 .border-news{
     border: 1px solid #808080 !important;
 }
+.border-newses{
+    border: 1px solid #808080 !important;
+    box-shadow: 5px 8px 18px  ;
+}
 .border-cus {
     --color: #808080;
     --position: left bottom;
@@ -48,4 +24,8 @@
     padding-bottom: 10px;
     margin-left: 4px;
     font: bold 2.5rem sans-serif;
+}
+.img-news {
+    border-radius: 0 !important;
+    border-bottom: 1px solid #808080 !important;
 }

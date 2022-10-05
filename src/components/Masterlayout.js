@@ -9,10 +9,10 @@ let cx = className.bind(styles)
 function Masterlayout({ children }) {
     return (
         <div className={cx('quattrocento')}>
-            <div className={cx('bg-white','fixed-top')}>
+            <div className={cx('bg-white','sticky-top')}>
                 <Header />
             </div>
-            <div className={cx('chil')}>
+            <div className={cx()}>
                 {children}
             </div>
             <div className={cx('chil')}>

@@ -121,7 +121,7 @@ function Home() {
               return (
                 <div key={newsItem.id}>
                   <div className={cx('card', 'news-home')}>
-                    <div className="overflow-hidden"><img className={cx('card-img-top', 'home-news-img')} src={newsItem.bg_img} alt="..." /></div>
+                    <div className="overflow-hidden"><Link to={`/detailsNews/${newsItem.id}`}><img className={cx('card-img-top', 'home-news-img')} src={newsItem.bg_img} alt="..." /></Link></div>
                     <div className="card-body p-0 m-0 p-1 m-1 d-flex justify-content-center align-items-center">
                       <p className={cx('card-text', 'fz-20', 'text-center','text-truncate')}>{newsItem.name}</p>
                     </div>

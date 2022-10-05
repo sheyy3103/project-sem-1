@@ -19,7 +19,7 @@ function Header() {
             <Link to="/" className={cx('navbar-brand', 'mx-3', 'nav-custom','py-3')}>Trang chủ</Link>
             <Link to="/about" className={cx('navbar-brand', 'mx-3', 'nav-custom','py-3')}>Giới thiệu</Link>
             <Link to="/" className={cx('navbar-brand', 'mx-3', 'nav-custom','py-3')}>Sản phẩm</Link>
-            <Link to="/" className={cx('navbar-brand', 'mx-3', 'nav-custom','py-3')}>Tin tức</Link>
+            <Link to="/news" className={cx('navbar-brand', 'mx-3', 'nav-custom','py-3')}>Tin tức</Link>
             <Link to="/contact" className={cx('navbar-brand', 'mx-3', 'nav-custom','py-3')}>Liên hệ</Link>
             <form className={cx('form-custom')}>
               <AiOutlineSearch />

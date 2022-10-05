@@ -18,3 +18,11 @@ export const getNews = async (page) => {
         console.error(err);
     }
 }
+export const detailsNews = async (id) => {
+    try {
+        const res = await http.get(`${urlApi}/${id}`);
+        return res;
+    } catch (err) {
+        console.error(err);
+    }
+}

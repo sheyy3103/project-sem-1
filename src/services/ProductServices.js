@@ -10,7 +10,7 @@ export const getAllProducts = async () => {
         console.error(err);
     }
 }
-export const detailProducts = async (id) => {
+export const detailsProducts = async (id) => {
     try {
         const res = await http.get(`${urlApi}/${id}`);
         return res;
@@ -26,12 +26,5 @@ export const searchByKey = async (keyWord) => {
         console.error(err);
     }
 }
-export const filterByKey = async (filterKey) => {
-    try {
-        const res = await http.get(`${urlApi}?${filterKey}`);
-        return res;
-    } catch (err) {
-        console.error(err);
-    }
-}
+
 
