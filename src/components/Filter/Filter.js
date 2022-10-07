@@ -46,13 +46,6 @@ function Filter() {
                                 })
                             }
                         </div>
-                        <p className="h2 font-weight-bold pt-2">Giá</p>
-                        <form className="pl-3">
-                            <label className="fz20 mr-1">Từ</label>
-                            <input type="text" className={cx('input-price')} />
-                            <label className="fz20 pl-3 mr-1">Đến</label>
-                            <input type="text" className={cx('input-price')} />
-                        </form>
                     </div>
                     <div className="col-lg-8">
                         <div className="container-fluid p-0">
