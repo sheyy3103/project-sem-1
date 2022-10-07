@@ -41,7 +41,7 @@ function Shop() {
                 category.map((item) => {
                   return (
                     <div key={item.category_id}>
-                      <Link to={`/filter/${item.category_id}`} className={cx('fz20', 'p-0', 'pt-2', 'pl-3', 'btn')} >{item.category_name}</Link>
+                      <Link to={`/filter/${item.category_id}`} className={cx('fz20', 'p-0', 'pt-2', 'pl-3', 'btn','shadow-none')} >{item.category_name}</Link>
                     </div>
                   )
                 })
