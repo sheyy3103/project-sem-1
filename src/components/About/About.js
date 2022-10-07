@@ -7,7 +7,7 @@ let cx = classNames.bind(styles)
 
 function About() {
     return (
-        <>
+        <div className='mb-5'>
             <div className="container-fluid">
                 <h1 className="text-uppercase text-center pt-4">công ty nội thất sheyy'<small>s</small> family</h1>
                 <div className={cx('border-cus')}></div>
@@ -34,7 +34,7 @@ function About() {
                     </div>
                 </div>
             </div>
-        </>
+        </div>
     )
 }
 

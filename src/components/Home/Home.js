@@ -19,7 +19,7 @@ let cx = className.bind(styles)
 function Home() {
   const [products, setProducts] = useState([]);
   const [news, setNews] = useState([]);
-  const [numPages, setNumPages] = useState(0);
+  const [numPages, setNumPages] = useState(1);
 
   // const getNews = () => {
   //   const getNewsApi = async () => {
@@ -50,19 +50,20 @@ function Home() {
     // getNews();
   }, [numPages])
   return (
-    <div><div id="carouselExampleSlidesOnly" className="carousel slide" data-ride="carousel" data-interval="3000">
-      <div className="carousel-inner">
-        <div className="carousel-item active">
-          <img className="d-block w-100" height="395px" src={slide1} alt="First slide" />
-        </div>
-        <div className="carousel-item">
-          <img className="d-block w-100" height="395px" src={slide2} alt="Second slide" />
-        </div>
-        <div className="carousel-item">
-          <img className="d-block w-100" height="395px" src={slide3} alt="Third slide" />
+    <div className='mb-5'>
+      <div id="carouselExampleSlidesOnly" className="carousel slide" data-ride="carousel" data-interval="3000">
+        <div className="carousel-inner">
+          <div className="carousel-item active">
+            <img className="d-block w-100" height="395px" src={slide1} alt="First slide" />
+          </div>
+          <div className="carousel-item">
+            <img className="d-block w-100" height="395px" src={slide2} alt="Second slide" />
+          </div>
+          <div className="carousel-item">
+            <img className="d-block w-100" height="395px" src={slide3} alt="Third slide" />
+          </div>
         </div>
       </div>
-    </div>
       <div className={cx('bg-undercarousel')}>
         <div className="container-fluid py-4 text-center">
           <div className="row p-0">
@@ -92,7 +93,7 @@ function Home() {
                 <h3 className="card-title">Sự lựa chọn đồ nội thất tốt nhất</h3>
                 <p className={cx('cart-text', 'fz15')}>Sở hữu ngay các sản phẩm nội thất được đội ngũ của Sheyy's family chọn lọc kĩ
                   lưỡng để cải thiện không gian sống của bạn.</p>
-                <Link to='/' className={cx('fz18')}> Mua ngay</Link>
+                <Link to='/shop' className={cx('fz18')} > Mua ngay</Link>
               </div>
             </div>
           </div>
@@ -103,7 +104,7 @@ function Home() {
                 <h3 className="card-title">Cam kết uy tín và giá trị</h3>
                 <p className={cx('cart-text', 'fz15')}>Khám phá bộ sưu tập nội thất nổi tiếng trên thế giới mà Sheyy's family đã mang
                   đến làm say mê biết bao thế hệ khách hàng.</p>
-                <Link to='/' className={cx('fz18')}>Tìm hiểu ngay</Link>
+                <Link to='/news' className={cx('fz18')} >Tìm hiểu ngay</Link>
               </div>
             </div>
           </div>
@@ -121,9 +122,13 @@ function Home() {
               return (
                 <div key={newsItem.id}>
                   <div className={cx('card', 'news-home')}>
-                    <div className="overflow-hidden"><Link to={`/detailsNews/${newsItem.id}`}><img className={cx('card-img-top', 'home-news-img')} src={newsItem.bg_img} alt="..." /></Link></div>
+                    <div className="overflow-hidden">
+                      <Link to={`/detailsNews/${newsItem.id}`} >
+                        <img className={cx('card-img-top', 'home-news-img')} src={newsItem.bg_img} alt="..." />
+                      </Link>
+                    </div>
                     <div className="card-body p-0 m-0 p-1 m-1 d-flex justify-content-center align-items-center">
-                      <p className={cx('card-text', 'fz-20', 'text-center','text-truncate')}>{newsItem.name}</p>
+                      <p className={cx('card-text', 'fz-20', 'text-center', 'text-truncate')}>{newsItem.name}</p>
                     </div>
                   </div>
                 </div>
@@ -141,13 +146,13 @@ function Home() {
         <div className="row align-items-center justify-content-between">
           {
             products.map((product) => {
-              return product.popular === true ? (
+              return product.popular == true ? (
                 <div className="col-lg-3" key={product.id}>
                   <div className={cx('card', 'product-home')}>
                     <img className={cx('card-img-top')} src={product.img} alt="..." />
                     <div className="card-body text-center">
                       <h5 className="card-title">{product.name}</h5>
-                      <Link to='/' className={cx('btn', 'btn-details')}>Xem chi tiết</Link>
+                      <Link to={`/detailsProduct/${product.id}`} className={cx('btn', 'btn-details')} >Xem chi tiết</Link>
                     </div>
                   </div>
                 </div>

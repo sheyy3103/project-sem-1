@@ -17,7 +17,7 @@ function News() {
   })
 
   return (
-    <>
+    <div className='mb-5'>
       <div className={cx('bg-gray', 'mt-2')}>
         <div className="container p-3">
           <div className="row justify-content-center align-items-center">
@@ -34,7 +34,7 @@ function News() {
               {
                 news.map((newsItem) => {
                   return (
-                    <Link to={`/detailsNews/${newsItem.id}`} key={newsItem.id}>
+                    <Link to={`/detailsNews/${newsItem.id}`} key={newsItem.id} >
                       <div className="media align-items-center my-3 mx-2">
                         <div className={cx('rounded-div', 'mr-2')}><img className={cx('mr-3', 'img-fluid', 'img-rounded')} src={newsItem.bg_img} alt="..." /></div>
                         <div className="media-body d-flex align-items-center text-left text-dark">
@@ -60,7 +60,7 @@ function News() {
                         <div className="card-body p-0 m-0 p-1 m-1 text-left">
                           <p className={cx('card-text', 'h5', 'text-truncate', 'font-weight-bolder')}>{newsItem.name}</p>
                           <p className={cx('card-text', 'fz16', 'mb-0', 'pb-1', 'text-truncate')}>{newsItem.title}</p>
-                          <Link to={`/detailsNews/${newsItem.id}`} className=''>Xem thêm</Link>
+                          <Link to={`/detailsNews/${newsItem.id}`} className='' >Xem thêm</Link>
                         </div>
                       </div>
                     </div>
@@ -71,7 +71,7 @@ function News() {
           </div>
         </div>
       </div>
-    </>
+    </div>
   )
 }
 

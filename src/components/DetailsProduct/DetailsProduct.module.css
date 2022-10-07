@@ -1,0 +1,50 @@
+.ip-cus {
+    border: none;
+    outline: none;
+    width: 40px;
+}
+
+.btn-cus {
+    border: none;
+    border-left: 1px solid black !important;
+    border-right: 1px solid black !important;
+    border-radius: 0 !important;
+    width: 30px;
+    background-color: transparent;
+}
+
+.btn-cus:hover {
+    background-color: transparent;
+}
+
+.form-cus {
+    border-top: 1px solid black !important;
+    border-bottom: 1px solid black !important;
+    width: 100px !important;
+}
+
+.btn-addtocart {
+    background-color: rgb(203, 6, 6);
+    border-radius: 0;
+    border: 1px solid rgb(203, 6, 6) !important;
+    color: white !important;
+
+}
+
+.text-underline {
+    text-decoration: underline !important;
+}
+
+.fz18 {
+    font-size: 18px !important;
+}
+
+.border-cus {
+    --color: orangered;
+    --position: center bottom;
+    --width: 6%;
+    --height: 5px;
+    background: linear-gradient(var(--color), var(--color)) var(--position) / var(--width) var(--height) no-repeat;
+    padding-bottom: 10px;
+    font: bold 2.5rem sans-serif;
+}

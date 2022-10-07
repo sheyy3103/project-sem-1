@@ -26,5 +26,13 @@ export const searchByKey = async (keyWord) => {
         console.error(err);
     }
 }
+export const getProducts = async (pages,cate,price_gte,price_lte) => {
+    try {
+        const res = await http.get(`${urlApi}?_limit=9&_page=${pages}`);
+        return res;
+    } catch (err) {
+        console.error(err);
+    }
+}
 
 

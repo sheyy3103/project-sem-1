@@ -5,13 +5,47 @@ import classNames from 'classnames/bind'
 import { GoLocation } from 'react-icons/go'
 import { AiOutlineMail, AiOutlinePhone } from 'react-icons/ai'
 import { FiFacebook } from 'react-icons/fi'
+import { useFormik } from 'formik'
 
-let cx = classNames.bind(styles)
+import { useNavigate } from 'react-router-dom'
+import { sendContact } from '../../services/ContactServices'
+import { send } from '../../redux/actions/contact'
+
+import Swal from 'sweetalert2';
+import { useDispatch } from 'react-redux'
+
+let cx = classNames.bind(styles);
+const initialValues = {
+    // trong này là mấy cái trường ở form.
+    fullname: "",
+    email: "",
+    phone: "",
+    message: ""
+}
 
 
 function Contact() {
+    const dispatch = useDispatch();
+    const navigate = useNavigate();
+    const formik = useFormik({
+        initialValues,
+        // giá trị khởi tạo của form
+        onSubmit: async (contact) => {
+            let response = await sendContact(contact);
+            dispatch(send(contact));
+            if(contact){
+            Swal.fire({
+                icon: 'success',
+                title: 'Wonderful!',
+                text: 'Cảm ơn bạn đã liên hệ với chúng tôi',
+                timer: 1500
+            })}
+            response.status === 201 && navigate("/");
+            // có dữ liệu r thì thêm mới thôi >
+        }
+    });
     return (
-        <div>
+        <div className='mb-5'>
             <div className="container-fluid px-5 pt-5">
                 <div className="row d-flex align-items-center">
                     <div className="col-lg-6">
@@ -42,20 +76,20 @@ function Contact() {
                             </div>
                         </div>
                         <p className="h2 text-uppercase text-center pt-2">liên hệ với chúng tôi</p>
-                        <div className={cx('contact-form', 'my-2')}>
+                        <form onSubmit={formik.handleSubmit} className={cx('contact-form', 'my-2')}>
                             <div className="row justify-content-between align-items-center mb-4 pb-2">
-                                <input type="text" className={cx('ip-name')} placeholder="Họ và tên" />
-                                <input type="text" className={cx('ip-phone')} placeholder="Số điện thoại" />
+                                <input type="text" className={cx('ip-name')} placeholder="Họ và tên" name="fullname" value={formik.values.fullname} onChange={formik.handleChange} />
+                                <input type="text" className={cx('ip-phone')} placeholder="Số điện thoại" name="phone" value={formik.values.phone} onChange={formik.handleChange} />
                             </div>
                             <div className="row justify-content-between align-items-center mb-4 pb-2">
-                                <input type="text" className={cx('ip-mail')} placeholder="Địa chỉ email" />
+                                <input type="text" className={cx('ip-mail')} placeholder="Địa chỉ email" name="email" value={formik.values.email} onChange={formik.handleChange} />
                             </div>
                             <div className="row justify-content-between align-items-center mb-4 pb-2">
-                                <textarea type="text" className={cx('ip-mess')} rows="3" placeholder="Lời nhắn"></textarea>
+                                <textarea type="text" className={cx('ip-mess')} rows="3" placeholder="Lời nhắn" name="message" value={formik.values.message} onChange={formik.handleChange} ></textarea>
                             </div>
-                            <div className="row justify-content-center align-items-center"><a href="#"
-                                className={cx('btn', 'btn-contact', 'btn-block')}>Gửi</a></div>
-                        </div>
+                            <div className="row justify-content-center align-items-center"><button type='submit'
+                                className={cx('btn', 'btn-contact', 'btn-block')}>Gửi</button></div>
+                        </form>
 
                     </div>
                 </div>

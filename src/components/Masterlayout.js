@@ -15,7 +15,7 @@ function Masterlayout({ children }) {
             <div className={cx()}>
                 {children}
             </div>
-            <div className={cx('chil')}>
+            <div className={cx('')}>
                 <Footer />
             </div>
         </div>

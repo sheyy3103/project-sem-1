@@ -25,3 +25,37 @@
     font-size: 40px !important;
     color: black !important;
 }
+
+.box-search {
+    width: 440px;
+    position: absolute;
+    background: white;
+    top: 65px;
+    left: 690px;
+    z-index: 20;
+}
+
+.linkitem {
+    color: black;
+    text-decoration: none;
+}
+
+.linkitem:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.img-search {
+    width: 60px;
+    height: 60px;
+    margin-right: 40px;
+    margin-left: 15px;
+}
+
+.form-item:hover {
+    background-color: aliceblue;
+}
+
+.form-item {
+    padding: 10px 0 !important;
+}

@@ -23,7 +23,7 @@ function DetailsNews() {
         getNewsApi();
     }, [id])
     return (
-        <>
+        <div className='mb-5'>
             <img src={newsDetails.bg_img} className="img-fluid mb-3" width='100%' height='100%' />
             <div className="container-fluid pt-4">
                 <div className="row">
@@ -49,14 +49,14 @@ function DetailsNews() {
                     </div>
                     <div className='col-lg-9'>
                         <p className='text-left h3 text-uppercase font-weight-bolder'>{newsDetails.name}</p>
-                        <div className={cx('border-newses','p-3')}>
+                        <div className={cx('border-newses', 'p-3')}>
                             <p className='h5 text-left font-weight-bolder'>{newsDetails.title}</p>
                             <p className='text-left'>{newsDetails.description}</p>
                         </div>
                     </div>
                 </div>
             </div>
-        </>
+        </div>
     )
 }
 

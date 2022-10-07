@@ -1,0 +1,45 @@
+.img-table {
+    width: 100px;
+    height: auto;
+}
+
+.text-decoration-underline {
+    text-decoration: underline !important;
+}
+
+.btn-outline-danger-cus {
+    border-radius: 0 !important;
+}
+
+.w-45 {
+    width: 45%;
+    border: 1px solid #777777 !important;
+    border-radius: 0 !important;
+}
+
+
+.btn-discount {
+    margin: 10px 0;
+    text-decoration: none;
+    color: white !important;
+    border-radius: 0px !important;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 10px;
+    background-color: #0b219f;
+    background-image: linear-gradient(to right, #062090, #000);
+    color: white;
+}
+
+.btn-outline-cus{
+    border-radius: 0 !important;
+    background-color: transparent;
+}
+
+.form-discount{
+    border: 2px solid rgb(247, 19, 19);
+}
+
+.fz18{
+    font-size: 18px !important;
+}

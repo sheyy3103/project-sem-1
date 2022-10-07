@@ -1,387 +1,405 @@
 {
-    "product": [
-        {
-            "id": 1,
-            "name": "Bàn ăn gia đình GD01",
-            "category": "Nội thất gia đình",
-            "category_id": 901,
-            "price": 3850000,
-            "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/bo-ban-ghe-an-go-hinh-oval-sang-trong-hba152-600x600-1-600x600.jpg",
-            "description": "Bàn ăn gỗ tự nhiên toàn bộ. Mặt bàn Verneer hình Oval. Mang cảm hứng ấn tượng, nhẹ nhàng vào trong bộ sưu tập TB06V tạo một hiệu ứng thẩm mỹ cao cấp, giúp không gian của bạn thêm tỏa sáng, hiện đại. Khung bàn gỗ tự nhiên toàn bộ, tần bì hoặc Acacia có khả năng chống ẩm mốc, chịu tác động lực lớn, không trầy xước, độ bền cao. Mặt bàn Verneer hình Oval  với các góc cạnh lượn cong giật cấp thanh thoát. Chân bàn với 4 chân hình trụ tiện cong hình sóng tạo sự kiên cố, thẩm mỹ cho bàn. Gam màu nâu đỏ cổ điển làm chủ đạo cùng bề mặt trơn láng mịn màng tạo sự ấm áp, nhã nhặn cho không gian. Bàn ăn gỗ kết hợp với ghế gỗ sử dụng trong gia đình, khách sạn, trường học,… đều phù hợp.",
-            "popular": false
-        },
-        {
-            "id": 2,
-            "name": "Bàn máy tính GD",
-            "category": "Nội thất gia đình",
-            "category_id": 901,
-            "price": 2100000,
-            "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/029-600x600.jpg",
-            "description": "Bàn liền giá sách, kèm hộc CPU và ngăn kéo để sách cùng khay để bàn phím. Mặt bàn phủ màng Laminate chống thấm nước và chống xước cao, phần còn lại gỗ Melamine. Ray ngăn kéo sử dụng ray bi 3 tầng. Chân bàn (hồi bàn) và mặt bàn được liên kết với nhau bằng giá đỡ. Mặt bàn hình chữ nhật. Chân bàn có lót đệm nhựa.",
-            "popular": false
-        },
-        {
-            "id": 3,
-            "name": "Bộ giường tủ",
-            "category": "Nội thất gia đình",
-            "category_id": 901,
-            "price": 4700000,
-            "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/trang-tri-noi-that-catvangjsc-4-1-300x300.jpg",
-            "description": "1 Giường (1m6 hoặc 1m8), tap đầu giường, tủ áo 4 cánh, bàn phấn. Bộ giường tủ phòng ngủ cao cấp. Gỗ công nghiệp Melamine kết hợp sơn PU. Giường có hộc để đồ bên dưới giát giường và được nâng hạ bằng hệ thông pistong cao cấp.",
-            "popular": false
-        },
-        {
-            "id": 4,
-            "name": "Tủ quần áo",
-            "category": "Nội thất gia đình",
-            "category_id": 901,
-            "price": 5500000,
-            "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/ALI_ALI_0000001000450_STORAGE_FURNITURE_-_Wardrobes_4743_20161012065534478427-600x600.jpg",
-            "description": "Gỗ công nghiệp, phủ sơn PU cao cấp chống trầy xước, chống thấm nước, cong vênh ở mọi thời tiết. Sản phẩm tủ áo được thiết kế mang đến nhiều tiện ích cho người dùng. Tủ dùng để quần áo tại gia đình hay phòng nghỉ ở công ty, cơ quan. Tủ quần áo này với chất liệu gỗ công nghiệp sơn PU, có kích thước phù hợp nên rất hài hòa với nội thất gia đình khác trong ngôi nhà vì thế mẫu sản phẩm này được sử dụng khá phổ biến hiện nay.",
-            "popular": false
-        },
-        {
-            "id": 5,
-            "name": "Giá để đồ",
-            "category": "Nội thất gia đình",
-            "category_id": 901,
-            "price": 1100000,
-            "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/025-600x600.jpg",
-            "description": "Thanh chặn đầu hồi bằng gỗ sơn PU. Thành và đợt bằng gỗ Melamin thành dày 25mm, đợt 18mm. Giá sách có thiết kế hiện đại mang lại sự thông thoáng cần thiết với hồi giá hở có 2 thanh chắn bảo vệ giúp sách không bị rơi đồng thời mang lại sự chắc chắn cho sản phẩm. Sản phẩm phù hợp với không gian phòng thư viện văn phòng với mức giá hợp lý là sự lựa chọn thông minh của khách hàng.",
-            "popular": false
-        },
-        {
-            "id": 6,
-            "name": "Bàn ăn gia đình GD02",
-            "category": "Nội thất gia đình",
-            "category_id": 901,
-            "price": 3240000,
-            "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/030-600x600.jpg",
-            "description": "Cảm hứng hoài cổ với chất liệu gỗ tự nhiên, màu sắc trầm ấm, tinh tế làm nên thiết kế chuyên biệt của mẫu bàn tròn, hẳn là một lựa chọn không tồi cho kiến trúc không gian của bạn thêm hiện đại, bình yên. Ghế gỗ 4 chân tĩnh, tựa khung với kết cấu vững chãi với chất gỗ tự nhiên hoàn toàn như tần bì hay Acacia, không cong vênh, chịu nước, chịu lực tốt. Ghế gỗ thường sử dụng kết hợp bàn ăn gỗ gia đình mang đến những bữa cơm ngon lành, không gian trở nên hoàn hảo và tinh tế thể hiện đẳng cấp của chủ nhân.",
-            "popular": false
-        },
-        {
-            "id": 7,
-            "name": "Bán khám bệnh",
-            "category": "Nội thất y tế",
-            "category_id": 902,
-            "price": 2400000,
-            "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/37-600x600.jpg",
-            "description": "Bao gồm khung bàn và đệm nằm. Đệm chia ra làm 3 phần: phần gối đầu, phần thân, phần để chân. Bàn có cơ cấu nâng đầu, hạ phía để chân bằng thanh răng. Tăng chỉnh có thêm đai an toàn tránh hiện trạng thanh ray bị trượt ra ngoài. Tháo lắp dễ dàng. Bàn khám bệnh được sử dụng tại bệnh viện, phòng khám tư nhân… Sản phẩm có thiết kế mang đến tiện ích cho người dùng với lớp đệm mút êm ái ở mặt nằm. Sản phẩm lắp ráp, tháo rời thuận lợi trong vận chuyển. Bàn mang đến sự hiện đại và thông thoáng cho không gian.",
-            "popular": false
-        },
-        {
-            "id": 8,
-            "name": "Cọc truyền dịch",
-            "category": "Nội thất y tế",
-            "category_id": 902,
-            "price": 300000,
-            "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/035-600x600.jpg",
-            "description": "Cọc truyền y tế có 2 tai treo để treo lọ dung dịch. Chân sử dụng 4 bánh xe để di chuyển dễ dàng, có bộ phận hãm bánh xe. Khung Inox và nhựa. Sản phẩm được sử dụng phổ biến ở bệnh viện, phòng khám tư. Với thiết kế mang đến sự tiện ích khi sử dụng, chân có bánh xe di chuyển thuận lợi phù hợp với mục đích sử dụng. Sản phẩm có giá bán khá mềm là sự lựa chọn tốt cho khách hàng.",
-            "popular": false
-        },
-        {
-            "id": 9,
-            "name": "Giường y tế",
-            "category": "Nội thất y tế",
-            "category_id": 902,
-            "price": 2923000,
-            "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/034-600x600.jpg",
-            "description": "Kiểu dáng hình chữ nhật. Chân giường tĩnh. Nan giát giường sử dụng Inox tấm gấp hộp. Sản phẩm có kiểu dáng hiện đại, kết cấu vững chắc với chất liệu inox sáng bóng, độ bền cao phù hợp với không gian phòng trong bệnh viện, phòng khám tư nhân. Giường mang đến cái nhìn thông thoáng và sự tiện ích cho người dùng với chân có bánh xe di chuyển thuận tiện, đầu giường có cơ cấu nâng hạ hợp lý. Sản phẩm có giá bán được đánh giá là trong tầm.",
-            "popular": false
-        },
-        {
-            "id": 10,
-            "name": "Tủ y tế",
-            "category": "Nội thất y tế",
-            "category_id": 902,
-            "price": 2880000,
-            "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/34-600x600.jpg",
-            "description": "Tủ chia làm 02 khoang, khoang trên cánh kính có 2 đợt di động. Khoang dưới chia 2 ngăn nhỏ. Tủ y tế được sử dụng tại bệnh viện, phòng khám tư nhân… Tủ Inox được thiết kế chuyên dụng để thuốc và các dụng cụ y tế mang đến sự tiện dụng cho người dùng cùng chất liệu inox sáng bóng, không hoen rỉ, độ bền cao phù hợp với môi trường bệnh viện. Sản phẩm có giá bán hợp lý là sự lựa chọn tốt cho khách hàng.",
-            "popular": false
-        },
-        {
-            "id": 11,
-            "name": "Xe đẩy cáng",
-            "category": "Nội thất y tế",
-            "category_id": 902,
-            "price": 3650000,
-            "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/033-600x600.jpg",
-            "description": "Khung sử dụng Ø32 và được liên kết các chi tiết với nhau băng Bulon inox. Sử dụng thành chắn hai bên có thể gập lên xuống nhanh, thuận tiện. Chân bánh xe cao su có sử dụng cơ cấu hãm. Xe có giỏ chứa đồ, 01 cọc truyền tăng chỉnh được chiều cao. Phần đệm nằm: phía đầu có thể nâng hạ. Xe đẩy cáng được sử dụng tại bệnh viện, phòng khám tư nhân… Sản phẩm được thiết kế theo tiêu chuẩn Y tế. Đáp ứng được mục đích trong sử dụng bởi các tính năng đầy đủ, tiện ích.",
-            "popular": false
-        },
-        {
-            "id": 12,
-            "name": "Xe đẩy y tế",
-            "category": "Nội thất y tế",
-            "category_id": 902,
-            "price": 1322000,
-            "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/33-600x600.jpg",
-            "description": "Xe 2 tầng, có móc treo đồ, dụng cụ. Một vành tròn để xô đựng nước. Xe đẩy y tế được sử dụng tại bệnh viện, phòng khám tư nhân dùng để tiêm, phân phát thuốc… Sản phẩm có kết cấu chắc chắn, sử dụng linh hoạt, thuận tiện. Sản phẩm có giá bán hợp lý là sự lựa chọn tốt cho khách hàng.",
-            "popular": false
-        },
-        {
-            "id": 13,
-            "name": "Bàn ghế học sinh TH01",
-            "category": "Trường học",
-            "category_id": 903,
-            "price": 650000,
-            "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/019-600x600.jpg",
-            "description": "Bàn ghế học sinh TH01 là bộ bàn ghế học sinh. Bàn rời ghế, có yếm với 2 chỗ ngồi. Khung bàn ghế ống thép sơn tĩnh điện. Mặt bàn gỗ dày 18mm, yếm bàn, đợt bàn gỗ Melamine dày 15mm. Mặt bàn liên kết với khung bằng kết cấu vít xuyên. ",
-            "popular": false
-        },
-        {
-            "id": 14,
-            "name": "Bàn ghế học sinh TH02",
-            "category": "Trường học",
-            "category_id": 903,
-            "price": 754500,
-            "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/20-1-600x600.jpg",
-            "description": "Bàn ghế học sinh TH02 là bộ bàn ghế học sinh không tựa có sự khác biệt về màu sắc so với những dòng khác. Toàn bộ sản phẩm nổi bật với màu sắc thanh lịch, nhã nhặn, dễ dàng kết hợp. Kết cấu vững chắc, bàn dành cho 2 vị trí ngồi, kích thước tương đối rộng, dễ dàng tháo lắp, vận chuyển, chế độ bảo hành tương đối ổn định. Mặt bàn, mặt ghế và lưng ghế làm bằng gỗ công nghiệp Melamine cao cấp nhập khẩu chống cháy, chống trầy xước, chống thấm nước, dễ vệ sinh lau chùi. Chân bàn ghế là ống thép sơn tĩnh điện chống trầy xước va đập, đảm bảo tuổi thọ và sự bền chắc cho sản phẩm.",
-            "popular": false
-        },
-        {
-            "id": 15,
-            "name": "Bàn máy tính TH",
-            "category": "Trường học",
-            "category_id": 903,
-            "price": 1750000,
-            "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/22-600x600.jpg",
-            "description": "Bàn máy tính khung thép sơn tĩnh điện. Mặt bàn làm từ gỗ Melamine cao cấp dày 18mm, ngăn bàn gỗ dày 12mm. Bàn dành cho 4 người ngồi đối xứng, kệ CPU di động. Khung sắt sơn tĩnh điện chắc chắn. Sản phẩm của Nội thất Hòa Phát.",
-            "popular": false
-        },
-        {
-            "id": 16,
-            "name": "Bàn thí nghiệm",
-            "category": "Trường học",
-            "category_id": 903,
-            "price": 9850000,
-            "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/21-600x600.jpg",
-            "description": "Là dạng bàn thí nghiệm hoá sinh có thiết kế hai chậu rửa và vòi nước. Mặt bàn dày 25mm, ngăn kéo dày 18mm. Cả khung bàn bằng thép và có thêm giá bàn 2 tầng đựng các loại đồ dùng thí nghiệm. Giá bàn có ổ cắm điện tiện lợi cho người sử dụng. Là mẫu bàn thí nghiệm đa năng có thiết kế cầu kỳ, đảm bảo đầy đủ công năng của một chiếc bàn dùng trong phòng thí nghiệm, mang đến sự tiện lợi và an toàn nhất cho người sử dụng.",
-            "popular": false
-        },
-        {
-            "id": 17,
-            "name": "Tủ HR1800-2B",
-            "category": "Tủ tài liệu",
-            "category_id": 904,
-            "price": 3500000,
-            "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/010-600x600.jpg",
-            "description": " Tủ HR1800-2B là là sản phẩm tủ 4 khoang, có 2 khoang cánh mở, 2 khoang không cánh. Có nhiều ngăn để đồ, không gian tủ rộng rãi, khoa học. Dễ dàng sắp xếp tài liệu ngăn nắp, dễ tìm kiếm tài liệu đã sắp xếp. Tạo cảm giác thuận tiện cho người sử dụng.",
-            "popular": true
-        },
-        {
-            "id": 18,
-            "name": "Tủ AT1960-3B",
-            "category": "Tủ tài liệu",
-            "category_id": 904,
-            "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/AT1960-3B-5-600x600.jpg",
-            "description": "Tủ AT1960-3B là sản phẩm tủ tài liệu 3 buồng gỗ Melamine, phía trên gồm 2 khoang cánh kính để tài liệu và 1 khoang treo áo, phía dưới có 3 cánh mở đươc thiết kế với kiểu dáng sang trọng dành cho nội thất phòng làm việc.",
-            "popular": false
-        },
-        {
-            "id": 19,
-            "name": "Tủ Verneer DC1840V5",
-            "category": "Tủ tài liệu",
-            "category_id": 904,
-            "price": 16570000,
-            "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/11-600x600.jpg",
-            "description": "Tủ Verneer DC1840V5 là sản phẩm tủ tài liệu Hòa Phát4 buồng, hai buồng phía ngoài là khoang cánh dài treo áo, hai buồng giữa phía trên là khoang cánh kính để tài liệu, phía dưới cánh mở có thể để đồ dùng cá nhân.",
-            "popular": false
-        },
-        {
-            "id": 20,
-            "name": "Bàn BK206",
-            "category": "Bàn",
-            "category_id": 905,
-            "price": 1800000,
-            "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/9-600x600.jpg",
-            "description": "Bàn BK206 là bàn học sinh liền giá sách. Bàn có khay bàn phím, kệ CPU cố định và 1 ngăn kéo. Trên mặt bàn có hệ thống giá để tài liệu tiện dụng. Sản phẩm bàn liền giá sách BK206 kết hợp với ghế hòa phát sử dụng cho nhiều không gian khác nhau.",
-            "popular": true
-        },
-        {
-            "id": 21,
-            "name": "Bàn họp NTH4315",
-            "category": "Bàn",
-            "category_id": 905,
-            "price": 9500000,
-            "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/008-600x600.jpg",
-            "description": "Bàn họp NTH4315 là bàn họp quây hình Oval. Mặt bàn, chân bàn gỗ công nghiệp. Bàn rộng rãi tạo cảm giác thoải mái cho phòng họp đông người. Tô điểm cho không gian phòng họp thêm sang trọng, hiện đại.",
-            "popular": false
-        },
-        {
-            "id": 22,
-            "name": "Bộ bàn Rec-Eames",
-            "category": "Bàn",
-            "category_id": 905,
-            "price": 2760000,
-            "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2017/11/077-600x600-600x600.jpg",
-            "description": "Bộ bàn ghế Rec-Eames là sự kết hợp giữa bàn Rec-F và ghế Eames trứ danh tạo thành bộ đôi hoàn hảo. Với chất lượng đã được khẳng định trên thị trường từ nhiều năm, Bộ bàn Rec-F và ghế Eames của IBIE rất được giới trẻ ưa chuộng bởi tính ứng dụng cao, phù hợp với nhiều loại không gian như văn phòng làm việc, phòng khách, phòng ngủ, trường học, quán cafe… Thiết kế trang nhã, hiện đại và cũng đầy cảm hứng, bộ bàn ghế Rec-F sẽ góp phần tô điểm cho không gian sống thêm sang trọng, hiện đại.",
-            "popular": true
-        },
-        {
-            "id": 23,
-            "name": "Bàn DT1680H24",
-            "category": "Bàn",
-            "category_id": 905,
-            "price": 5000000,
-            "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/10-600x600.jpg",
-            "description": "Bàn giám đốc DT1680H24  là sản phẩm bàn làm việc cao cấp dành cho cấp lãnh đạo văn phòng và thường được kết hợp sử dụng chung với các loại ghế văn phòng cao cấp. DT1680H24 sang trọng hơn khi được kết hợp sử dụng chung với các loại ghế da giám đốc cao cấp và các loại tủ hồ sơ gỗ tự nhiên đặc trưng chuyên dành cho nội thất phòng lãnh đạo. Quý khách có thể chọn lựa thêm các sản phẩm đi kèm như tủ phụ hoặc hộc tài liệu để có được bộ bàn làm việc văn phòng hoàn chỉnh nhất.",
-            "popular": false
-        },
-        {
-            "id": 24,
-            "name": "Ghế phòng chờ",
-            "category": "Ghế",
-            "category_id": 906,
-            "price": 2150000,
-            "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/19-600x600.jpg",
-            "description": "Ghế phòng chờ chuyên dùng cho phòng chờ ở khu công cộng, sảnh cơ quan doanh nghiệp… Với  thiết kế hiện đại, sang trọng là băng chỗ dành cho 2 người ngồi bằng tôn có đột lỗ vừa đẹp mắt vừa tạo sự thông thoáng, mát mẻ khi ngồi. Chân ghế thép sơn tĩnh điện chắc chắn, độ bền cao.",
-            "popular": false
-        },
-        {
-            "id": 25,
-            "name": "Bộ ghế hơi",
-            "category": "Ghế",
-            "category_id": 906,
-            "price": 785000,
-            "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2017/11/ghe-hoi-600x600-600x600.jpg",
-            "description": "Ghế bơm hơi được sử dụng để xem TV, đọc một cuốn sách, hoặc để ngủ, sản phẩm này sẽ phồng lên trong vài phút. Do đó, chúng ta có thể dễ dàng làm sạch và thu gọn để cất sản phẩm ghế bơm hơi. Ghế hơi tựa lưng cho bạn cảm giác thoải mái, cho dù bạn đang cắm trại hoặc ở nhà. Chịu được khối lượng 150kg. TẶNG KÈM HƠI ĐIỆN.",
-            "popular": false
-        },
-        {
-            "id": 26,
-            "name": "Ghế lưới GL140",
-            "category": "Ghế",
-            "category_id": 906,
-            "price": 550000,
-            "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/17-600x600.jpg",
-            "description": "Ghế lưới Gl140 có thể dùng để xem TV, ăn uống, đọc sách hay kết hợp với bàn dùng để ăn uống, làm việc. Vô cùng tiện lợi và linh hoạt cho nhiều trường hợp sử dụng. Ngồi lâu cũng không tạo cảm giác đau lưng, chịu được khối lượng 150 kg.",
-            "popular": true
-        },
-        {
-            "id": 27,
-            "name": "Tượng Cobra",
-            "category": "Đồ trang trí",
-            "category_id": 907,
-            "price": 1090000,
-            "img": "https://casanha-beta.s3.ap-southeast-1.amazonaws.com/2022/09/kiotviet_f7fa327e4f34141b85ddcf0513c07426.jpg",
-            "description": "Màu vàng đồng, làm từ nhựa resine thân thiện với môi trường. Hợp với người tuổi tỵ, người mệnh hỏa, dùng trang trí các phòng trong gia đỉnh hay nơi làm việc. Nhẹ nhàng, bền bỉ, sang trọng,...",
-            "popular": false
-        },
-        {
-            "id": 28,
-            "name": "Bình khói Kanoi",
-            "category": "Đồ trang trí",
-            "category_id": 907,
-            "price": 1900000,
-            "img": "https://casanha-beta.s3.ap-southeast-1.amazonaws.com/2022/09/kiotviet_5b8b45c2f1fa99aea314687291b7d582.jpg",
-            "description": "Chất liệu làm từ thủy tinh, màu xám khói. Sản phẩm phù hợp trang trí ở phòng ngủ, phòng khách, đại sảnh, nhà hàng, cửa hàng... Bình được nhập, đóng gói, vận chuyển đến tay khách hàng an toàn, đảm bảo chất lượng.",
-            "popular": false
-        },
-        {
-            "id": 29,
-            "name": "Đồng hồ Wire",
-            "category": "Đồ trang trí",
-            "category_id": 907,
-            "price": 1500000,
-            "img": "https://casanha-beta.s3.ap-southeast-1.amazonaws.com/2022/09/kiotviet_ee9592ddb5afd3cab8ba20a2bea31038.jpg",
-            "description": "Chất liệu kim loại. Máy đồng hồ sử dụng là loại máy kim trôi chống ồn. Sản xuất theo tiêu chuẩn châu Âu, cho thời gian chính xác. cho giấc ngủ an lành bình yên.Độ trễ gần như bằng 0, thích hợp dùng ở nhiều loại phòng.",
-            "popular": false
-        },
-        {
-            "id": 30,
-            "name": "Cây chanh giả",
-            "category": "Đồ trang trí",
-            "category_id": 907,
-            "price": 470000,
-            "img": "https://casanha-beta.s3.ap-southeast-1.amazonaws.com/2022/09/kiotviet_a18775d986c3f32a171b9197109b0b97.jpg",
-            "description": "Làm từ PVC, cao 120cm. Đa dạng mẫu mã, mô phỏng với độ tinh xảo cực cao khiến cây đẹp trong từng đường nét. Được sử dụng rộng rãi để decor trong các không gian hiện đại khác nhau như: không gian phòng khách, quán cafe, shop,...",
-            "popular": false
-        },
-        {
-            "id": 31,
-            "name": "Bình hoa Luv",
-            "category": "Đồ trang trí",
-            "category_id": 907,
-            "price": 1100000,
-            "img": "https://casanha-beta.s3.ap-southeast-1.amazonaws.com/2022/09/kiotviet_05a486a793367e32db7e1f3aeadb307a.png",
-            "description": "Làm từ gốm bát tràng, hoàn thiện từ trong thiết kế. Bình hoa trang trí đẹp về kiểu dáng, tạo hình và đa dạng về màu sắc. Đây là một món đồ trang trí cho không gian nhà bạn thêm sang trọng, ấm cúng.",
-            "popular": false
-        }
-    ],
-    "category": [
-        {
-            "category_id": 901,
-            "category_name": "Nội thất gia đình"
-        },
-        {
-            "category_id": 902,
-            "category_name": "Nội thất y tế"
-        },
-        {
-            "category_id": 903,
-            "category_name": "Trường học"
-        },
-        {
-            "category_id": 904,
-            "category_name": "Tủ tài liệu"
-        },
-        {
-            "category_id": 905,
-            "category_name": "Bàn"
-        },
-        {
-            "category_id": 906,
-            "category_name": "Ghế"
-        },
-        {
-            "category_id": 907,
-            "category_name": "Đồ trang trí"
-        }
-    ],
-    "news": [
-        {
-            "id": 1,
-            "name": "Không gian đẹp nhờ kết hợp các phong cách nội thất khác nhau",
-            "bg_img":"http://mauweb.monamedia.net/uma/wp-content/uploads/2018/05/post-banner-06.jpg",
-            "title": "Hiện tại, mọi người thường do dự trong việc kết hợp các phong cách nội thất khác nhau, đặc biệt là khi họ mới bước chân vào thế giới thiết kế nội thất.",
-            "description":"Dùng các màu tương phản Thử tưởng tượng bạn bước vào một căn phòng và mọi thứ đều được bao phủ bởi một gam màu giống nhau. Sau khi vượt qua sự ngỡ ngàng ban đầu bạn sẽ nhanh chóng cảm thấy nhàm chán. Trong kịch bản như thế này căn phòng không có bất cứ một điểm nhấn nào để bạn chú ý, nó khiến bạn nhanh chóng tìm kiếm những gì thú vị hơn. Ngược lại, nếu pha trộn nhiều gam màu nội thất khác nhau sẽ mang đến cái nhìn thú vị. Chúng ta có xu hướng bị cuốn hút bởi những không gian có nhiều yếu tố để chúng ta xem xét trong một tổng thể gắn kết, vì vậy hãy giữ mục tiêu này trong tâm trí khi mua sắm đồ nội thất cho ngôi nhà thân yêu của bạn. Tuy nhiên, cần tránh lạm dụng sự tương phản, một căn phòng quá nhiều sự tương phản trong màu sắc thì sẽ có quá nhiều chỗ để mắt chú ý và thị giác gần như quá tải, khi đó thì cần phải thiết lập lại nội thất. Không gian được thiết kế tốt là một không gian có sự cân bằng giữa hai thái cực nhằm tạo sự hài hòa cho người sử dụng. Sử dụng hoa văn Khi nói đến sự pha trộn và kết hợp phong cách, hoa văn là thứ đầu tiên bạn nên nghĩ đến. Cuối cùng, bạn có thể sử dụng chúng để truyền tải nhiều màu sắc và cái nhìn thú vị vào không gian với một chi phí không đáng kể khi so sánh với các mặt hàng tương tự có tông màu trung tính. Thêm nữa, bạn có thể áp dụng hoa văn ở mọi nơi, về cơ bản bất cứ nơi nào trong phòng từ giấy dán tường và các phụ kiện như gối. Chìa khóa để thành công trong việc sử dụng các hoa văn khác nhau là chúng phải có chung một chủ đề để gắn kết lại với nhau. Nên xem xét, sử dụng các hoa văn của bạn có các màu sắc cơ bản giống nhau. Hoặc, nếu bạn muốn sử dụng phá cách bằng cách dùng màu Tetradic (bốn màu tạo thành một tứ giác trên bảng màu), thì bạn nên giữ các hoa văn trong cùng một chủ đề để tạo cho căn phòng một cái nhìn gắn kết. Tiết chế cũng là chìa khóa thành công. Hầu hết các nhà thiết kế nội thất khuyên bạn rằng chỉ nên kết hợp ba tới bốn hoa văn trong một không gian xác định. Hãy luôn các chắn là kết thúc hoa văn bằng cách sử dụng màu trung lập giữa chúng. Thêm Texture vào không gian nội thất Trong thế giới của thiết kế nội thất, các kết cấu cần có được sự cảm nhận tốt nhất cho người dùng. Tuy nhiên, việc nhìn thấy vật liệu trông giống như chúng ta cảm thấy cũng rất quan trọng. Tương phản trong cảm xúc là điều cần thiết mà bạn cần quan tâm đến. Texture là rất quan trọng để gia tăng cảm xúc khi hình ảnh trong một không gian nhất định. Hãy nhớ rằng các kết cấu thô mộc thường dễ nhìn hơn những kết cấu quá phẳng phiu. Vì vậy, nếu bạn đang muốn tạo ra một phòng khách hoàn hảo thì nên chọn các kết cấu thô mộc làm đường đi và các kết cấu phảng phiêu để làm điểm nhấn. Đối với một Texture trong nội thất, bạn có thể có nó từ nhiều nguồn khác nhau, như một hình nền trên bức tường hoặc là một bức tranh treo. Hãy đưa phong cách của mình vào thiết kế Trên hết phong cách của bạn cần được đưa vào không gian riêng mà bạn muốn thiết kế. nếu có sự kết hợp trong các phong cách thiết kế nội thất bạn sẽ có thể có một “căn phòng sang trọng trong một không gian hiện đại hoặc tiện nghi trong một căn phòng ấm cúng”. Khi bạn mới bước vào thế giới thiết kế nội thất có thể bạn sẽ quá chú trọng vào một phong cách thiết kế và những màu sắc mà bạn biết rằng nó hợp với phong cách thiết kế đó. Nhưng, theo thời gian bạn sẽ có nhiều cái nhìn chi tiết hơn từ đó bạn sẽ dễ dàng pha trộn và kết hợp các phong cách với nhau hơn."
-        },
-        {
-            "id":2,
-            "name":"Những căn phòng mang đậm phong cách Bohemian",
-            "bg_img":"http://mauweb.monamedia.net/uma/wp-content/uploads/2018/05/post-banner-05.jpg",
-            "title":"Hãy tham khảo các ý tưởng trang trí nội thất theo phong cách Bohemian dưới đây để làm mới không gian sống của bạn trong dịp nghỉ lễ sắp tới.",
-            "description":"Không chỉ ở trong lĩnh vực thời trang, sự mộc mạc, phóng khoáng của phong cách Bohemian đã truyền cảm hứng cho các nhà kiến trúc. Xu hướng sử dụng những món đồ nội thất theo phong cách này đã tạo nên một cơn sốt ở giới trẻ - những người luôn muốn tìm tòi và thử nghiệm những điều mới lạ và phá cách. Nếu muốn tạo điểm nhấn trong căn nhà mình với phong cách Bohemian, các bạn có thể thêm vào một số chi tiết nhỏ như sử dụng thảm hoặc vỏ gối có họa tiết thổ cẩm. Điều này chắc chắn sẽ khiến không gian trong căn nhà bạn trở nên ấn tượng và mới mẻ hơn."
-        },
-        {
-            "id":3,
-            "name":"Căn hộ 25m² đẹp với nội thất cực kỳ hợp lý",
-            "bg_img":"http://mauweb.monamedia.net/uma/wp-content/uploads/2018/05/post-banner-04.jpg",
-            "title":"Nội thất đặt đóng riêng kết hợp cùng cách bài trí thông minh, cá tính của chủ nhân khiến căn hộ nhỏ chỉ 25m² nhưng đẹp và tiện nghi chẳng kém những căn hộ cao cấp.",
-            "description":"Nói đến những căn hộ nhỏ, ta thường nghĩ ngay đến những không gian chật chội, tạm bợ, thiếu chỗ nọ, hụt cho kia. Nhưng trên thực tế, vẫn có rất nhiều căn hộ dù diện tích chỉ 25m² - 30m² mà vẫn cực tiện nghi, cực đẹp mắt khi được chủ nhân dành nhiều tâm huyết để bài trí. Căn hộ dưới đây có thể xem là một ví dụ điển hình. Với nhược điểm là diện tích nhỏ lại có khổ nhà hình ống, chủ nhân nơi này đã quyết định bố trí các không gian chức năng chạy dọc theo 2 bên tường để tiện sử dụng đồng thời tạo sự rành mạch cho từng không gian. Trong đó khu vực chính gồm nơi tiếp khách, giường ngủ, bàn làm việc sẽ được tiếp cận với mặt sáng, đồng thời được ngăn cách với các khu nấu nướng - vệ sinh bằng cách cửa trượt. Ngắm từng khu vực trong căn hộ, bạn sẽ phải thừa nhận đây là cách làm cực thông minh và hợp lý. Khu vực phòng khách - bàn ăn và nghỉ ngơi được ưu tiên bố trí với mặt sáng duy nhất của căn hộ. Từng không gian riêng biệt trong căn phòng này đều rất nhỏ gọn, đặc biệt các nội thất trong khu vực này đều được thiết kế để có thể dùng chung cho nhiều mục đích. Khu vực giải trí tuy nhỏ nhưng sang trọng chẳng kém ai với chiếc tivi siêu mỏng, hiện đại. Giường ngủ được tách biệt với nơi tiếp khách bởi đầu giường cao kiêm nhiệm thêm chức năng của kệ sách. Chiếc đèn dạng treo đáp ứng được cả yêu cầu đèn ngủ lẫn đèn chiếu sáng cho khu vực tiếp khách của chủ nhà. Trong căn hộ này nếu bỏ qua yếu tố trang trí và cách vận dụng nội thất thông minh thì quả là một điều vô cùng thiếu sót. Với hai tông màu trắng – xám chủ đạo, chủ nhân nơi này đã không ngần ngại sử dụng thêm nhiều tranh, chậu cây hay chính những họa tiết trên gối, màu sắc của thảm… để tạo nên những điểm nhấn ấn tượng và hút mắt. Về nội thất, bên cạnh những món đồ đặt thiết kế riêng như hệ tủ cánh phẳng thoạt trông cứ ngỡ là bức tường, cả những món đồ cũ cũng được tận dụng, tạo nên sự đa dạng và cá tình cho không gian. Sự ghép đôi của kệ tủ cũ với chiếc tivi siêu hiện đại mang đến cho căn hộ nhỏ nét tươi mới, thú vị. Chiếc kệ đầu giường là tủ sách rất tiện lợi. Tại khu vực sảnh vào, bếp nấu, dù diện tích chỉ tí xíu, nhưng chủ nhà vẫn khiến khách đến chơi bị thuyết phục bởi cách bố trí nội thất cực thuyết phục.  Sảnh nối từ bếp vào không gian bên trong được tận dụng làm nơi treo áo, thay đồ. Những chiếc tủ kệ cổ kết hợp với gạch hoa vintage tạo ra sự phân khu rành mạch giữa 2 khu vực. Bếp nhỏ với đồ bếp hiện đại, phù hợp với diện tích. Cũng giống như tủ quần áo, tủ bếp cũng được thiết kiểu cánh phẳng rất gọn gàng."
-        },
-        {
-            "id":4,
-            "name":"Thiết kế nội thất cho căn hộ 29m²",
-            "bg_img":"http://mauweb.monamedia.net/uma/wp-content/uploads/2018/05/post-banner-03.jpg",
-            "title":"Với diện tích bé, căn hộ chung cư 29m² đã sử dụng các giải pháp thiết kế thông minh và khéo léo như sàn gỗ cứng màu trắng và nội thất tối giản.",
-            "description":"Bộ sofa giản dị được đặt bên cửa sổ, bên cạnh là chậu cây xanh mát và bức tranh hài hòa. Thông qua cửa trượt lớn, không gian lưu trữ và giường ngủ tạo thành một khối màu trắng thống nhất. Phòng khách kết hợp với phòng ngủ là giải pháp thông minh trong căn hộ này. Giá sách cung cấp rất nhiều dung lượng lưu trữ đồng thời đóng vai trò là kệ TV. Gương khung và đèn cổ điển là sự kết hợp hoàn hảo để gia tăng kích thước cho căn phòng. Nhờ vào hệ thống kệ mở, cách sắp xếp khoa học và gam màu trắng thanh lịch, phòng bếp trở nên rất gọn gàng. Các bức tường màu tím sâu nổi bật trên nền trắng của nội thất. Một góc nhìn từ phòng bếp. Phòng tắm với gam màu đen trắng hiện đại, vách kính tiện lợi"
-        },
-        {
-            "id":5,
-            "name":"Những cách thiết kế nội thất khiến ngôi nhà rộng rãi hơn",
-            "bg_img":"http://mauweb.monamedia.net/uma/wp-content/uploads/2018/05/post-banner-02.jpg",
-            "title":"Dưới đây là một số gợi ý giúp bạn thiết kế nội thất giúp ngôi nhà của mình trông sáng sủa, rộng rãi và thoáng mát hơn.",
-            "description":"(1) Sử dụng các chi tiết gỗ màu sáng là một trong những cách thiết kế nội thất giúp căn phòng trông sáng sủa và không gian sinh hoạt trông rộng rãi hơn. (2) Sơn tường với các màu dịu nhẹ cũng là một cách hiệu quả giúp căn phòng tươi mới và rộng lớn hơn. (3) Sự kết hợp giữa những đồ nội thất màu tươi sáng như trắng, đỏ, cam…là cách làm không gian sáng sủa. (4) Những bức tranh dán tường hoặc rèm cửa chủ để biển xanh cũng góp phần giúp căn phòng tươi mới và rộng hơn. (5) Cây xanh luôn làm cho ngôi nhà có thêm khí sắc tươi tắn hơn. (6) Nội thất màu trắng luôn là cách hiệu quả nhất giúp căn phòng rộng rãi và tươi sáng. (7) Cửa sổ bằng kính lớn cũng khiến ngôi nhà trông rộng bởi hiệu ứng chiều sâu. (8) Trần nhà cao cũng tạo cảm giác ngôi nhà sáng sủa, rộng lớn. (9) Sử dụng những đồ nội thất màu pastel dịu nhẹ sẽ giúp không gian tươi tắn, thoáng mát. (10) Sử dụng những món đồ nhỏ giúp không gian sinh hoạt thoải mái và rộng rãi hơn."
-        },
-        {
-            "id":6,
-            "name":"Khoác áo mới cho phòng khách đón hè",
-            "bg_img":"http://mauweb.monamedia.net/uma/wp-content/uploads/2018/05/post-banner-01.jpg",
-            "title":"Những màu sắc từ mùa đông sang mùa xuân như thảm lông, gối ôm… đã không còn phù hợp với không khí mùa hè. Tuy nhiên bạn không cần thay đổi hoàn toàn đồ nội thất trong phòng khách của mình, vì chỉ với vài bước đơn giản dưới đây, bạn đã có thể “khoác áo mới” cho phòng khách.",
-            "description":"Chỉ với những cách làm rất đơn giản như may áo mới cho ghế sofa, sơn tường nhà với sắc xanh nước biển làm chủ đạo, thêm những chậu hoa nhỏ xinh hay đơn giản chỉ là mở toang khung cửa sổ để nắng mai rọi vào mỗi sáng sớm… cũng đã đủ để thiết kế nội thất phòng khách trở nên ấn tượng hơn. Bộ sofa bắt mắt hơn rất nhiều với chiếc “áo khoác” mới mang sắc đỏ rực rỡ, nổi bật, tạo điểm nhấn cho toàn bộ không gian và cũng gợi màu phượng lửa học trò, rất duyên. Gam màu xanh mang lại cảm giác rất mát mắt, như mang cả sắc màu và hơi thở của biển vào nhà, “đánh đuổi” không khí oi nồng của mùa hè một cách hiệu quả. Còn đây là những ô cửa sổ tràn ngập sắc xanh của cây lá, vừa thanh lọc không khí, vừa tạo vẻ đẹp mỹ quan và đồng thời cũng giúp cho ngôi nhà trở nên mát mẻ hơn khi gần kề với thiên nhiên. Hãy tận dụng những tia nắng mai dọi vào từ khung cửa sổ, căn phòng sẽ trở nên tươi mới hơn. Nồng và oi ả là 2 cảm giác rất “khó ưa” mà mùa hè mang lại, để tránh được 2 cảm giác khó chịu này cho phòng khách thì bạn cần bố trí các vật dụng thật thoãng đãng, cách này đồng thời mang lại sự thoải mái khi sử dụng. Sự kết hợp của các gam vàng đến từ nắng và xanh của lá tạo nên bản hòa ca rất tuyệt diệu ru giấc trưa nồng oi ả, mang lại cảm giác mát dịu mà không kém phần sôi nổi cho không gian. Sử dụng rèm treo có màu sắc nhẹ nhàng, thanh thoát với chất liệu mềm mại cũng là một cách để vừa tăng vẻ đẹp cho tổng thể thiết kế nội thất, vừa giúp cản và lọc bớt sức nóng của những tia nắng gắt vào giữa trưa. Trong trường hợp không muốn có sự xuất hiện của các gam màu nóng, bạn có thể chọn dùng những gam nhạt hơn để trang trí phòng cho mùa hè, tăng cường sự dịu mát trước cái nóng như đổ lửa vào mùa hè. Không chỉ sử dụng, bố trí những đồ nội thất phù hợp với không khí ngày hè, bạn có thể mang cả thiên nhiên vào phòng với những chậu cây xanh. Từ bậc cửa lối vào đến từng khung cửa sổ bạn có thể trang trí cây hoa phù hợp với từng không gian. Không cần quá tốn kém cầu kỳ bạn sẽ có được không gian sống tuyệt vời và thư thái cho những ngày hè rực rỡ."
-        }
-    ]
+  "product": [
+    {
+      "id": 1,
+      "name": "Bàn ăn gia đình GD01",
+      "category": "Nội thất gia đình",
+      "category_id": 901,
+      "price": 3850000,
+      "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/bo-ban-ghe-an-go-hinh-oval-sang-trong-hba152-600x600-1-600x600.jpg",
+      "description": "Bàn ăn gỗ tự nhiên toàn bộ. Mặt bàn Verneer hình Oval. Mang cảm hứng ấn tượng, nhẹ nhàng vào trong bộ sưu tập TB06V tạo một hiệu ứng thẩm mỹ cao cấp, giúp không gian của bạn thêm tỏa sáng, hiện đại. Khung bàn gỗ tự nhiên toàn bộ, tần bì hoặc Acacia có khả năng chống ẩm mốc, chịu tác động lực lớn, không trầy xước, độ bền cao. Mặt bàn Verneer hình Oval  với các góc cạnh lượn cong giật cấp thanh thoát. Chân bàn với 4 chân hình trụ tiện cong hình sóng tạo sự kiên cố, thẩm mỹ cho bàn. Gam màu nâu đỏ cổ điển làm chủ đạo cùng bề mặt trơn láng mịn màng tạo sự ấm áp, nhã nhặn cho không gian. Bàn ăn gỗ kết hợp với ghế gỗ sử dụng trong gia đình, khách sạn, trường học,… đều phù hợp.",
+      "popular": false
+    },
+    {
+      "id": 2,
+      "name": "Bộ bàn Rec-Eames",
+      "category": "Bàn",
+      "category_id": 905,
+      "price": 2760000,
+      "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2017/11/077-600x600-600x600.jpg",
+      "description": "Bộ bàn ghế Rec-Eames là sự kết hợp giữa bàn Rec-F và ghế Eames trứ danh tạo thành bộ đôi hoàn hảo. Với chất lượng đã được khẳng định trên thị trường từ nhiều năm, Bộ bàn Rec-F và ghế Eames của IBIE rất được giới trẻ ưa chuộng bởi tính ứng dụng cao, phù hợp với nhiều loại không gian như văn phòng làm việc, phòng khách, phòng ngủ, trường học, quán cafe… Thiết kế trang nhã, hiện đại và cũng đầy cảm hứng, bộ bàn ghế Rec-F sẽ góp phần tô điểm cho không gian sống thêm sang trọng, hiện đại.",
+      "popular": true
+    },
+    {
+      "id": 3,
+      "name": "Bộ giường tủ",
+      "category": "Nội thất gia đình",
+      "category_id": 901,
+      "price": 4700000,
+      "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/trang-tri-noi-that-catvangjsc-4-1-300x300.jpg",
+      "description": "1 Giường (1m6 hoặc 1m8), tap đầu giường, tủ áo 4 cánh, bàn phấn. Bộ giường tủ phòng ngủ cao cấp. Gỗ công nghiệp Melamine kết hợp sơn PU. Giường có hộc để đồ bên dưới giát giường và được nâng hạ bằng hệ thông pistong cao cấp.",
+      "popular": false
+    },
+    {
+      "id": 4,
+      "name": "Giá để đồ",
+      "category": "Nội thất gia đình",
+      "category_id": 901,
+      "price": 1100000,
+      "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/025-600x600.jpg",
+      "description": "Thanh chặn đầu hồi bằng gỗ sơn PU. Thành và đợt bằng gỗ Melamin thành dày 25mm, đợt 18mm. Giá sách có thiết kế hiện đại mang lại sự thông thoáng cần thiết với hồi giá hở có 2 thanh chắn bảo vệ giúp sách không bị rơi đồng thời mang lại sự chắc chắn cho sản phẩm. Sản phẩm phù hợp với không gian phòng thư viện văn phòng với mức giá hợp lý là sự lựa chọn thông minh của khách hàng.",
+      "popular": false
+    },
+    {
+      "id": 5,
+      "name": "Bàn ăn gia đình GD02",
+      "category": "Nội thất gia đình",
+      "category_id": 901,
+      "price": 3240000,
+      "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/030-600x600.jpg",
+      "description": "Cảm hứng hoài cổ với chất liệu gỗ tự nhiên, màu sắc trầm ấm, tinh tế làm nên thiết kế chuyên biệt của mẫu bàn tròn, hẳn là một lựa chọn không tồi cho kiến trúc không gian của bạn thêm hiện đại, bình yên. Ghế gỗ 4 chân tĩnh, tựa khung với kết cấu vững chãi với chất gỗ tự nhiên hoàn toàn như tần bì hay Acacia, không cong vênh, chịu nước, chịu lực tốt. Ghế gỗ thường sử dụng kết hợp bàn ăn gỗ gia đình mang đến những bữa cơm ngon lành, không gian trở nên hoàn hảo và tinh tế thể hiện đẳng cấp của chủ nhân.",
+      "popular": false
+    },
+    {
+      "id": 6,
+      "name": "Bàn khám bệnh",
+      "category": "Nội thất y tế",
+      "category_id": 902,
+      "price": 2400000,
+      "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/37-600x600.jpg",
+      "description": "Bao gồm khung bàn và đệm nằm. Đệm chia ra làm 3 phần: phần gối đầu, phần thân, phần để chân. Bàn có cơ cấu nâng đầu, hạ phía để chân bằng thanh răng. Tăng chỉnh có thêm đai an toàn tránh hiện trạng thanh ray bị trượt ra ngoài. Tháo lắp dễ dàng. Bàn khám bệnh được sử dụng tại bệnh viện, phòng khám tư nhân… Sản phẩm có thiết kế mang đến tiện ích cho người dùng với lớp đệm mút êm ái ở mặt nằm. Sản phẩm lắp ráp, tháo rời thuận lợi trong vận chuyển. Bàn mang đến sự hiện đại và thông thoáng cho không gian.",
+      "popular": false
+    },
+    {
+      "id": 7,
+      "name": "Tủ y tế",
+      "category": "Nội thất y tế",
+      "category_id": 902,
+      "price": 2880000,
+      "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/34-600x600.jpg",
+      "description": "Tủ chia làm 02 khoang, khoang trên cánh kính có 2 đợt di động. Khoang dưới chia 2 ngăn nhỏ. Tủ y tế được sử dụng tại bệnh viện, phòng khám tư nhân… Tủ Inox được thiết kế chuyên dụng để thuốc và các dụng cụ y tế mang đến sự tiện dụng cho người dùng cùng chất liệu inox sáng bóng, không hoen rỉ, độ bền cao phù hợp với môi trường bệnh viện. Sản phẩm có giá bán hợp lý là sự lựa chọn tốt cho khách hàng.",
+      "popular": false
+    },
+    {
+      "id": 8,
+      "name": "Bàn máy tính GD",
+      "category": "Nội thất gia đình",
+      "category_id": 901,
+      "price": 2100000,
+      "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/029-600x600.jpg",
+      "description": "Bàn liền giá sách, kèm hộc CPU và ngăn kéo để sách cùng khay để bàn phím. Mặt bàn phủ màng Laminate chống thấm nước và chống xước cao, phần còn lại gỗ Melamine. Ray ngăn kéo sử dụng ray bi 3 tầng. Chân bàn (hồi bàn) và mặt bàn được liên kết với nhau bằng giá đỡ. Mặt bàn hình chữ nhật. Chân bàn có lót đệm nhựa.",
+      "popular": false
+    },
+    {
+      "id": 9,
+      "name": "Xe đẩy cáng",
+      "category": "Nội thất y tế",
+      "category_id": 902,
+      "price": 3650000,
+      "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/033-600x600.jpg",
+      "description": "Khung sử dụng Ø32 và được liên kết các chi tiết với nhau băng Bulon inox. Sử dụng thành chắn hai bên có thể gập lên xuống nhanh, thuận tiện. Chân bánh xe cao su có sử dụng cơ cấu hãm. Xe có giỏ chứa đồ, 01 cọc truyền tăng chỉnh được chiều cao. Phần đệm nằm: phía đầu có thể nâng hạ. Xe đẩy cáng được sử dụng tại bệnh viện, phòng khám tư nhân… Sản phẩm được thiết kế theo tiêu chuẩn Y tế. Đáp ứng được mục đích trong sử dụng bởi các tính năng đầy đủ, tiện ích.",
+      "popular": false
+    },
+    {
+      "id": 10,
+      "name": "Bàn DT1680H24",
+      "category": "Bàn",
+      "category_id": 905,
+      "price": 5000000,
+      "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/10-600x600.jpg",
+      "description": "Bàn giám đốc DT1680H24  là sản phẩm bàn làm việc cao cấp dành cho cấp lãnh đạo văn phòng và thường được kết hợp sử dụng chung với các loại ghế văn phòng cao cấp. DT1680H24 sang trọng hơn khi được kết hợp sử dụng chung với các loại ghế da giám đốc cao cấp và các loại tủ hồ sơ gỗ tự nhiên đặc trưng chuyên dành cho nội thất phòng lãnh đạo. Quý khách có thể chọn lựa thêm các sản phẩm đi kèm như tủ phụ hoặc hộc tài liệu để có được bộ bàn làm việc văn phòng hoàn chỉnh nhất.",
+      "popular": false
+    },
+    {
+      "id": 11,
+      "name": "Bình hoa Luv",
+      "category": "Đồ trang trí",
+      "category_id": 907,
+      "price": 1100000,
+      "img": "https://casanha-beta.s3.ap-southeast-1.amazonaws.com/2022/09/kiotviet_05a486a793367e32db7e1f3aeadb307a.png",
+      "description": "Làm từ gốm bát tràng, hoàn thiện từ trong thiết kế. Bình hoa trang trí đẹp về kiểu dáng, tạo hình và đa dạng về màu sắc. Đây là một món đồ trang trí cho không gian nhà bạn thêm sang trọng, ấm cúng.",
+      "popular": false
+    },
+    {
+      "id": 12,
+      "name": "Xe đẩy y tế",
+      "category": "Nội thất y tế",
+      "category_id": 902,
+      "price": 1322000,
+      "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/33-600x600.jpg",
+      "description": "Xe 2 tầng, có móc treo đồ, dụng cụ. Một vành tròn để xô đựng nước. Xe đẩy y tế được sử dụng tại bệnh viện, phòng khám tư nhân dùng để tiêm, phân phát thuốc… Sản phẩm có kết cấu chắc chắn, sử dụng linh hoạt, thuận tiện. Sản phẩm có giá bán hợp lý là sự lựa chọn tốt cho khách hàng.",
+      "popular": false
+    },
+    {
+      "id": 13,
+      "name": "Tủ quần áo",
+      "category": "Nội thất gia đình",
+      "category_id": 901,
+      "price": 5500000,
+      "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/ALI_ALI_0000001000450_STORAGE_FURNITURE_-_Wardrobes_4743_20161012065534478427-600x600.jpg",
+      "description": "Gỗ công nghiệp, phủ sơn PU cao cấp chống trầy xước, chống thấm nước, cong vênh ở mọi thời tiết. Sản phẩm tủ áo được thiết kế mang đến nhiều tiện ích cho người dùng. Tủ dùng để quần áo tại gia đình hay phòng nghỉ ở công ty, cơ quan. Tủ quần áo này với chất liệu gỗ công nghiệp sơn PU, có kích thước phù hợp nên rất hài hòa với nội thất gia đình khác trong ngôi nhà vì thế mẫu sản phẩm này được sử dụng khá phổ biến hiện nay.",
+      "popular": false
+    },
+    {
+      "id": 14,
+      "name": "Bàn ghế học sinh TH01",
+      "category": "Trường học",
+      "category_id": 903,
+      "price": 650000,
+      "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/019-600x600.jpg",
+      "description": "Bàn ghế học sinh TH01 là bộ bàn ghế học sinh. Bàn rời ghế, có yếm với 2 chỗ ngồi. Khung bàn ghế ống thép sơn tĩnh điện. Mặt bàn gỗ dày 18mm, yếm bàn, đợt bàn gỗ Melamine dày 15mm. Mặt bàn liên kết với khung bằng kết cấu vít xuyên. ",
+      "popular": false
+    },
+    {
+      "id": 15,
+      "name": "Giường y tế",
+      "category": "Nội thất y tế",
+      "category_id": 902,
+      "price": 2923000,
+      "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/034-600x600.jpg",
+      "description": "Kiểu dáng hình chữ nhật. Chân giường tĩnh. Nan giát giường sử dụng Inox tấm gấp hộp. Sản phẩm có kiểu dáng hiện đại, kết cấu vững chắc với chất liệu inox sáng bóng, độ bền cao phù hợp với không gian phòng trong bệnh viện, phòng khám tư nhân. Giường mang đến cái nhìn thông thoáng và sự tiện ích cho người dùng với chân có bánh xe di chuyển thuận tiện, đầu giường có cơ cấu nâng hạ hợp lý. Sản phẩm có giá bán được đánh giá là trong tầm.",
+      "popular": false
+    },
+    {
+      "id": 16,
+      "name": "Bàn máy tính TH",
+      "category": "Trường học",
+      "category_id": 903,
+      "price": 1750000,
+      "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/22-600x600.jpg",
+      "description": "Bàn máy tính khung thép sơn tĩnh điện. Mặt bàn làm từ gỗ Melamine cao cấp dày 18mm, ngăn bàn gỗ dày 12mm. Bàn dành cho 4 người ngồi đối xứng, kệ CPU di động. Khung sắt sơn tĩnh điện chắc chắn. Sản phẩm của Nội thất Hòa Phát.",
+      "popular": false
+    },
+    {
+      "id": 17,
+      "name": "Tủ HR1800-2B",
+      "category": "Tủ tài liệu",
+      "category_id": 904,
+      "price": 3500000,
+      "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/010-600x600.jpg",
+      "description": " Tủ HR1800-2B là là sản phẩm tủ 4 khoang, có 2 khoang cánh mở, 2 khoang không cánh. Có nhiều ngăn để đồ, không gian tủ rộng rãi, khoa học. Dễ dàng sắp xếp tài liệu ngăn nắp, dễ tìm kiếm tài liệu đã sắp xếp. Tạo cảm giác thuận tiện cho người sử dụng.",
+      "popular": true
+    },
+    {
+      "id": 18,
+      "name": "Bàn ghế học sinh TH02",
+      "category": "Trường học",
+      "category_id": 903,
+      "price": 754500,
+      "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/20-1-600x600.jpg",
+      "description": "Bàn ghế học sinh TH02 là bộ bàn ghế học sinh không tựa có sự khác biệt về màu sắc so với những dòng khác. Toàn bộ sản phẩm nổi bật với màu sắc thanh lịch, nhã nhặn, dễ dàng kết hợp. Kết cấu vững chắc, bàn dành cho 2 vị trí ngồi, kích thước tương đối rộng, dễ dàng tháo lắp, vận chuyển, chế độ bảo hành tương đối ổn định. Mặt bàn, mặt ghế và lưng ghế làm bằng gỗ công nghiệp Melamine cao cấp nhập khẩu chống cháy, chống trầy xước, chống thấm nước, dễ vệ sinh lau chùi. Chân bàn ghế là ống thép sơn tĩnh điện chống trầy xước va đập, đảm bảo tuổi thọ và sự bền chắc cho sản phẩm.",
+      "popular": false
+    },
+    {
+      "id": 19,
+      "name": "Tủ AT1960-3B",
+      "category": "Tủ tài liệu",
+      "category_id": 904,
+      "price": "4200000",
+      "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/AT1960-3B-5-600x600.jpg",
+      "description": "Tủ AT1960-3B là sản phẩm tủ tài liệu 3 buồng gỗ Melamine, phía trên gồm 2 khoang cánh kính để tài liệu và 1 khoang treo áo, phía dưới có 3 cánh mở đươc thiết kế với kiểu dáng sang trọng dành cho nội thất phòng làm việc.",
+      "popular": false
+    },
+    {
+      "id": 20,
+      "name": "Bàn BK206",
+      "category": "Bàn",
+      "category_id": 905,
+      "price": 1800000,
+      "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/9-600x600.jpg",
+      "description": "Bàn BK206 là bàn học sinh liền giá sách. Bàn có khay bàn phím, kệ CPU cố định và 1 ngăn kéo. Trên mặt bàn có hệ thống giá để tài liệu tiện dụng. Sản phẩm bàn liền giá sách BK206 kết hợp với ghế hòa phát sử dụng cho nhiều không gian khác nhau.",
+      "popular": true
+    },
+    {
+      "id": 21,
+      "name": "Tủ Verneer DC1840V5",
+      "category": "Tủ tài liệu",
+      "category_id": 904,
+      "price": 16570000,
+      "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/11-600x600.jpg",
+      "description": "Tủ Verneer DC1840V5 là sản phẩm tủ tài liệu Hòa Phát4 buồng, hai buồng phía ngoài là khoang cánh dài treo áo, hai buồng giữa phía trên là khoang cánh kính để tài liệu, phía dưới cánh mở có thể để đồ dùng cá nhân.",
+      "popular": false
+    },
+    {
+      "id": 22,
+      "name": "Ghế lưới GL140",
+      "category": "Ghế",
+      "category_id": 906,
+      "price": 550000,
+      "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/17-600x600.jpg",
+      "description": "Ghế lưới Gl140 có thể dùng để xem TV, ăn uống, đọc sách hay kết hợp với bàn dùng để ăn uống, làm việc. Vô cùng tiện lợi và linh hoạt cho nhiều trường hợp sử dụng. Ngồi lâu cũng không tạo cảm giác đau lưng, chịu được khối lượng 150 kg.",
+      "popular": true
+    },
+    {
+      "id": 23,
+      "name": "Bàn họp NTH4315",
+      "category": "Bàn",
+      "category_id": 905,
+      "price": 9500000,
+      "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/008-600x600.jpg",
+      "description": "Bàn họp NTH4315 là bàn họp quây hình Oval. Mặt bàn, chân bàn gỗ công nghiệp. Bàn rộng rãi tạo cảm giác thoải mái cho phòng họp đông người. Tô điểm cho không gian phòng họp thêm sang trọng, hiện đại.",
+      "popular": false
+    },
+    {
+      "id": 24,
+      "name": "Ghế phòng chờ",
+      "category": "Ghế",
+      "category_id": 906,
+      "price": 2150000,
+      "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/19-600x600.jpg",
+      "description": "Ghế phòng chờ chuyên dùng cho phòng chờ ở khu công cộng, sảnh cơ quan doanh nghiệp… Với  thiết kế hiện đại, sang trọng là băng chỗ dành cho 2 người ngồi bằng tôn có đột lỗ vừa đẹp mắt vừa tạo sự thông thoáng, mát mẻ khi ngồi. Chân ghế thép sơn tĩnh điện chắc chắn, độ bền cao.",
+      "popular": false
+    },
+    {
+      "id": 25,
+      "name": "Đồng hồ Wire",
+      "category": "Đồ trang trí",
+      "category_id": 907,
+      "price": 1500000,
+      "img": "https://casanha-beta.s3.ap-southeast-1.amazonaws.com/2022/09/kiotviet_ee9592ddb5afd3cab8ba20a2bea31038.jpg",
+      "description": "Chất liệu kim loại. Máy đồng hồ sử dụng là loại máy kim trôi chống ồn. Sản xuất theo tiêu chuẩn châu Âu, cho thời gian chính xác. cho giấc ngủ an lành bình yên.Độ trễ gần như bằng 0, thích hợp dùng ở nhiều loại phòng.",
+      "popular": false
+    },
+    {
+      "id": 26,
+      "name": "Bộ ghế hơi",
+      "category": "Ghế",
+      "category_id": 906,
+      "price": 785000,
+      "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2017/11/ghe-hoi-600x600-600x600.jpg",
+      "description": "Ghế bơm hơi được sử dụng để xem TV, đọc một cuốn sách, hoặc để ngủ, sản phẩm này sẽ phồng lên trong vài phút. Do đó, chúng ta có thể dễ dàng làm sạch và thu gọn để cất sản phẩm ghế bơm hơi. Ghế hơi tựa lưng cho bạn cảm giác thoải mái, cho dù bạn đang cắm trại hoặc ở nhà. Chịu được khối lượng 150kg. TẶNG KÈM HƠI ĐIỆN.",
+      "popular": false
+    },
+    {
+      "id": 27,
+      "name": "Bàn thí nghiệm",
+      "category": "Trường học",
+      "category_id": 903,
+      "price": 9850000,
+      "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/21-600x600.jpg",
+      "description": "Là dạng bàn thí nghiệm hoá sinh có thiết kế hai chậu rửa và vòi nước. Mặt bàn dày 25mm, ngăn kéo dày 18mm. Cả khung bàn bằng thép và có thêm giá bàn 2 tầng đựng các loại đồ dùng thí nghiệm. Giá bàn có ổ cắm điện tiện lợi cho người sử dụng. Là mẫu bàn thí nghiệm đa năng có thiết kế cầu kỳ, đảm bảo đầy đủ công năng của một chiếc bàn dùng trong phòng thí nghiệm, mang đến sự tiện lợi và an toàn nhất cho người sử dụng.",
+      "popular": false
+    },
+    {
+      "id": 28,
+      "name": "Tượng Cobra",
+      "category": "Đồ trang trí",
+      "category_id": 907,
+      "price": 1090000,
+      "img": "https://casanha-beta.s3.ap-southeast-1.amazonaws.com/2022/09/kiotviet_f7fa327e4f34141b85ddcf0513c07426.jpg",
+      "description": "Màu vàng đồng, làm từ nhựa resine thân thiện với môi trường. Hợp với người tuổi tỵ, người mệnh hỏa, dùng trang trí các phòng trong gia đỉnh hay nơi làm việc. Nhẹ nhàng, bền bỉ, sang trọng,...",
+      "popular": false
+    },
+    {
+      "id": 29,
+      "name": "Cọc truyền dịch",
+      "category": "Nội thất y tế",
+      "category_id": 902,
+      "price": 300000,
+      "img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/03/035-600x600.jpg",
+      "description": "Cọc truyền y tế có 2 tai treo để treo lọ dung dịch. Chân sử dụng 4 bánh xe để di chuyển dễ dàng, có bộ phận hãm bánh xe. Khung Inox và nhựa. Sản phẩm được sử dụng phổ biến ở bệnh viện, phòng khám tư. Với thiết kế mang đến sự tiện ích khi sử dụng, chân có bánh xe di chuyển thuận lợi phù hợp với mục đích sử dụng. Sản phẩm có giá bán khá mềm là sự lựa chọn tốt cho khách hàng.",
+      "popular": false
+    },
+    {
+      "id": 30,
+      "name": "Bình khói Kanoi",
+      "category": "Đồ trang trí",
+      "category_id": 907,
+      "price": 1900000,
+      "img": "https://casanha-beta.s3.ap-southeast-1.amazonaws.com/2022/09/kiotviet_5b8b45c2f1fa99aea314687291b7d582.jpg",
+      "description": "Chất liệu làm từ thủy tinh, màu xám khói. Sản phẩm phù hợp trang trí ở phòng ngủ, phòng khách, đại sảnh, nhà hàng, cửa hàng... Bình được nhập, đóng gói, vận chuyển đến tay khách hàng an toàn, đảm bảo chất lượng.",
+      "popular": false
+    },
+    {
+      "id": 31,
+      "name": "Cây chanh giả",
+      "category": "Đồ trang trí",
+      "category_id": 907,
+      "price": 470000,
+      "img": "https://casanha-beta.s3.ap-southeast-1.amazonaws.com/2022/09/kiotviet_a18775d986c3f32a171b9197109b0b97.jpg",
+      "description": "Làm từ PVC, cao 120cm. Đa dạng mẫu mã, mô phỏng với độ tinh xảo cực cao khiến cây đẹp trong từng đường nét. Được sử dụng rộng rãi để decor trong các không gian hiện đại khác nhau như: không gian phòng khách, quán cafe, shop,...",
+      "popular": false
+    }
+  ],
+  "category": [
+    {
+      "category_id": 901,
+      "category_name": "Nội thất gia đình"
+    },
+    {
+      "category_id": 902,
+      "category_name": "Nội thất y tế"
+    },
+    {
+      "category_id": 903,
+      "category_name": "Trường học"
+    },
+    {
+      "category_id": 904,
+      "category_name": "Tủ tài liệu"
+    },
+    {
+      "category_id": 905,
+      "category_name": "Bàn"
+    },
+    {
+      "category_id": 906,
+      "category_name": "Ghế"
+    },
+    {
+      "category_id": 907,
+      "category_name": "Đồ trang trí"
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "name": "Không gian đẹp nhờ kết hợp các phong cách nội thất khác nhau",
+      "bg_img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/05/post-banner-06.jpg",
+      "title": "Hiện tại, mọi người thường do dự trong việc kết hợp các phong cách nội thất khác nhau, đặc biệt là khi họ mới bước chân vào thế giới thiết kế nội thất.",
+      "description": "Dùng các màu tương phản Thử tưởng tượng bạn bước vào một căn phòng và mọi thứ đều được bao phủ bởi một gam màu giống nhau. Sau khi vượt qua sự ngỡ ngàng ban đầu bạn sẽ nhanh chóng cảm thấy nhàm chán. Trong kịch bản như thế này căn phòng không có bất cứ một điểm nhấn nào để bạn chú ý, nó khiến bạn nhanh chóng tìm kiếm những gì thú vị hơn. Ngược lại, nếu pha trộn nhiều gam màu nội thất khác nhau sẽ mang đến cái nhìn thú vị. Chúng ta có xu hướng bị cuốn hút bởi những không gian có nhiều yếu tố để chúng ta xem xét trong một tổng thể gắn kết, vì vậy hãy giữ mục tiêu này trong tâm trí khi mua sắm đồ nội thất cho ngôi nhà thân yêu của bạn. Tuy nhiên, cần tránh lạm dụng sự tương phản, một căn phòng quá nhiều sự tương phản trong màu sắc thì sẽ có quá nhiều chỗ để mắt chú ý và thị giác gần như quá tải, khi đó thì cần phải thiết lập lại nội thất. Không gian được thiết kế tốt là một không gian có sự cân bằng giữa hai thái cực nhằm tạo sự hài hòa cho người sử dụng. Sử dụng hoa văn Khi nói đến sự pha trộn và kết hợp phong cách, hoa văn là thứ đầu tiên bạn nên nghĩ đến. Cuối cùng, bạn có thể sử dụng chúng để truyền tải nhiều màu sắc và cái nhìn thú vị vào không gian với một chi phí không đáng kể khi so sánh với các mặt hàng tương tự có tông màu trung tính. Thêm nữa, bạn có thể áp dụng hoa văn ở mọi nơi, về cơ bản bất cứ nơi nào trong phòng từ giấy dán tường và các phụ kiện như gối. Chìa khóa để thành công trong việc sử dụng các hoa văn khác nhau là chúng phải có chung một chủ đề để gắn kết lại với nhau. Nên xem xét, sử dụng các hoa văn của bạn có các màu sắc cơ bản giống nhau. Hoặc, nếu bạn muốn sử dụng phá cách bằng cách dùng màu Tetradic (bốn màu tạo thành một tứ giác trên bảng màu), thì bạn nên giữ các hoa văn trong cùng một chủ đề để tạo cho căn phòng một cái nhìn gắn kết. Tiết chế cũng là chìa khóa thành công. Hầu hết các nhà thiết kế nội thất khuyên bạn rằng chỉ nên kết hợp ba tới bốn hoa văn trong một không gian xác định. Hãy luôn các chắn là kết thúc hoa văn bằng cách sử dụng màu trung lập giữa chúng. Thêm Texture vào không gian nội thất Trong thế giới của thiết kế nội thất, các kết cấu cần có được sự cảm nhận tốt nhất cho người dùng. Tuy nhiên, việc nhìn thấy vật liệu trông giống như chúng ta cảm thấy cũng rất quan trọng. Tương phản trong cảm xúc là điều cần thiết mà bạn cần quan tâm đến. Texture là rất quan trọng để gia tăng cảm xúc khi hình ảnh trong một không gian nhất định. Hãy nhớ rằng các kết cấu thô mộc thường dễ nhìn hơn những kết cấu quá phẳng phiu. Vì vậy, nếu bạn đang muốn tạo ra một phòng khách hoàn hảo thì nên chọn các kết cấu thô mộc làm đường đi và các kết cấu phảng phiêu để làm điểm nhấn. Đối với một Texture trong nội thất, bạn có thể có nó từ nhiều nguồn khác nhau, như một hình nền trên bức tường hoặc là một bức tranh treo. Hãy đưa phong cách của mình vào thiết kế Trên hết phong cách của bạn cần được đưa vào không gian riêng mà bạn muốn thiết kế. nếu có sự kết hợp trong các phong cách thiết kế nội thất bạn sẽ có thể có một “căn phòng sang trọng trong một không gian hiện đại hoặc tiện nghi trong một căn phòng ấm cúng”. Khi bạn mới bước vào thế giới thiết kế nội thất có thể bạn sẽ quá chú trọng vào một phong cách thiết kế và những màu sắc mà bạn biết rằng nó hợp với phong cách thiết kế đó. Nhưng, theo thời gian bạn sẽ có nhiều cái nhìn chi tiết hơn từ đó bạn sẽ dễ dàng pha trộn và kết hợp các phong cách với nhau hơn."
+    },
+    {
+      "id": 2,
+      "name": "Những căn phòng mang đậm phong cách Bohemian",
+      "bg_img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/05/post-banner-05.jpg",
+      "title": "Hãy tham khảo các ý tưởng trang trí nội thất theo phong cách Bohemian dưới đây để làm mới không gian sống của bạn trong dịp nghỉ lễ sắp tới.",
+      "description": "Không chỉ ở trong lĩnh vực thời trang, sự mộc mạc, phóng khoáng của phong cách Bohemian đã truyền cảm hứng cho các nhà kiến trúc. Xu hướng sử dụng những món đồ nội thất theo phong cách này đã tạo nên một cơn sốt ở giới trẻ - những người luôn muốn tìm tòi và thử nghiệm những điều mới lạ và phá cách. Nếu muốn tạo điểm nhấn trong căn nhà mình với phong cách Bohemian, các bạn có thể thêm vào một số chi tiết nhỏ như sử dụng thảm hoặc vỏ gối có họa tiết thổ cẩm. Điều này chắc chắn sẽ khiến không gian trong căn nhà bạn trở nên ấn tượng và mới mẻ hơn."
+    },
+    {
+      "id": 3,
+      "name": "Căn hộ 25m² đẹp với nội thất cực kỳ hợp lý",
+      "bg_img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/05/post-banner-04.jpg",
+      "title": "Nội thất đặt đóng riêng kết hợp cùng cách bài trí thông minh, cá tính của chủ nhân khiến căn hộ nhỏ chỉ 25m² nhưng đẹp và tiện nghi chẳng kém những căn hộ cao cấp.",
+      "description": "Nói đến những căn hộ nhỏ, ta thường nghĩ ngay đến những không gian chật chội, tạm bợ, thiếu chỗ nọ, hụt cho kia. Nhưng trên thực tế, vẫn có rất nhiều căn hộ dù diện tích chỉ 25m² - 30m² mà vẫn cực tiện nghi, cực đẹp mắt khi được chủ nhân dành nhiều tâm huyết để bài trí. Căn hộ dưới đây có thể xem là một ví dụ điển hình. Với nhược điểm là diện tích nhỏ lại có khổ nhà hình ống, chủ nhân nơi này đã quyết định bố trí các không gian chức năng chạy dọc theo 2 bên tường để tiện sử dụng đồng thời tạo sự rành mạch cho từng không gian. Trong đó khu vực chính gồm nơi tiếp khách, giường ngủ, bàn làm việc sẽ được tiếp cận với mặt sáng, đồng thời được ngăn cách với các khu nấu nướng - vệ sinh bằng cách cửa trượt. Ngắm từng khu vực trong căn hộ, bạn sẽ phải thừa nhận đây là cách làm cực thông minh và hợp lý. Khu vực phòng khách - bàn ăn và nghỉ ngơi được ưu tiên bố trí với mặt sáng duy nhất của căn hộ. Từng không gian riêng biệt trong căn phòng này đều rất nhỏ gọn, đặc biệt các nội thất trong khu vực này đều được thiết kế để có thể dùng chung cho nhiều mục đích. Khu vực giải trí tuy nhỏ nhưng sang trọng chẳng kém ai với chiếc tivi siêu mỏng, hiện đại. Giường ngủ được tách biệt với nơi tiếp khách bởi đầu giường cao kiêm nhiệm thêm chức năng của kệ sách. Chiếc đèn dạng treo đáp ứng được cả yêu cầu đèn ngủ lẫn đèn chiếu sáng cho khu vực tiếp khách của chủ nhà. Trong căn hộ này nếu bỏ qua yếu tố trang trí và cách vận dụng nội thất thông minh thì quả là một điều vô cùng thiếu sót. Với hai tông màu trắng – xám chủ đạo, chủ nhân nơi này đã không ngần ngại sử dụng thêm nhiều tranh, chậu cây hay chính những họa tiết trên gối, màu sắc của thảm… để tạo nên những điểm nhấn ấn tượng và hút mắt. Về nội thất, bên cạnh những món đồ đặt thiết kế riêng như hệ tủ cánh phẳng thoạt trông cứ ngỡ là bức tường, cả những món đồ cũ cũng được tận dụng, tạo nên sự đa dạng và cá tình cho không gian. Sự ghép đôi của kệ tủ cũ với chiếc tivi siêu hiện đại mang đến cho căn hộ nhỏ nét tươi mới, thú vị. Chiếc kệ đầu giường là tủ sách rất tiện lợi. Tại khu vực sảnh vào, bếp nấu, dù diện tích chỉ tí xíu, nhưng chủ nhà vẫn khiến khách đến chơi bị thuyết phục bởi cách bố trí nội thất cực thuyết phục.  Sảnh nối từ bếp vào không gian bên trong được tận dụng làm nơi treo áo, thay đồ. Những chiếc tủ kệ cổ kết hợp với gạch hoa vintage tạo ra sự phân khu rành mạch giữa 2 khu vực. Bếp nhỏ với đồ bếp hiện đại, phù hợp với diện tích. Cũng giống như tủ quần áo, tủ bếp cũng được thiết kiểu cánh phẳng rất gọn gàng."
+    },
+    {
+      "id": 4,
+      "name": "Thiết kế nội thất cho căn hộ 29m²",
+      "bg_img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/05/post-banner-03.jpg",
+      "title": "Với diện tích bé, căn hộ chung cư 29m² đã sử dụng các giải pháp thiết kế thông minh và khéo léo như sàn gỗ cứng màu trắng và nội thất tối giản.",
+      "description": "Bộ sofa giản dị được đặt bên cửa sổ, bên cạnh là chậu cây xanh mát và bức tranh hài hòa. Thông qua cửa trượt lớn, không gian lưu trữ và giường ngủ tạo thành một khối màu trắng thống nhất. Phòng khách kết hợp với phòng ngủ là giải pháp thông minh trong căn hộ này. Giá sách cung cấp rất nhiều dung lượng lưu trữ đồng thời đóng vai trò là kệ TV. Gương khung và đèn cổ điển là sự kết hợp hoàn hảo để gia tăng kích thước cho căn phòng. Nhờ vào hệ thống kệ mở, cách sắp xếp khoa học và gam màu trắng thanh lịch, phòng bếp trở nên rất gọn gàng. Các bức tường màu tím sâu nổi bật trên nền trắng của nội thất. Một góc nhìn từ phòng bếp. Phòng tắm với gam màu đen trắng hiện đại, vách kính tiện lợi"
+    },
+    {
+      "id": 5,
+      "name": "Những cách thiết kế nội thất khiến ngôi nhà rộng rãi hơn",
+      "bg_img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/05/post-banner-02.jpg",
+      "title": "Dưới đây là một số gợi ý giúp bạn thiết kế nội thất giúp ngôi nhà của mình trông sáng sủa, rộng rãi và thoáng mát hơn.",
+      "description": "(1) Sử dụng các chi tiết gỗ màu sáng là một trong những cách thiết kế nội thất giúp căn phòng trông sáng sủa và không gian sinh hoạt trông rộng rãi hơn. (2) Sơn tường với các màu dịu nhẹ cũng là một cách hiệu quả giúp căn phòng tươi mới và rộng lớn hơn. (3) Sự kết hợp giữa những đồ nội thất màu tươi sáng như trắng, đỏ, cam…là cách làm không gian sáng sủa. (4) Những bức tranh dán tường hoặc rèm cửa chủ để biển xanh cũng góp phần giúp căn phòng tươi mới và rộng hơn. (5) Cây xanh luôn làm cho ngôi nhà có thêm khí sắc tươi tắn hơn. (6) Nội thất màu trắng luôn là cách hiệu quả nhất giúp căn phòng rộng rãi và tươi sáng. (7) Cửa sổ bằng kính lớn cũng khiến ngôi nhà trông rộng bởi hiệu ứng chiều sâu. (8) Trần nhà cao cũng tạo cảm giác ngôi nhà sáng sủa, rộng lớn. (9) Sử dụng những đồ nội thất màu pastel dịu nhẹ sẽ giúp không gian tươi tắn, thoáng mát. (10) Sử dụng những món đồ nhỏ giúp không gian sinh hoạt thoải mái và rộng rãi hơn."
+    },
+    {
+      "id": 6,
+      "name": "Khoác áo mới cho phòng khách đón hè",
+      "bg_img": "http://mauweb.monamedia.net/uma/wp-content/uploads/2018/05/post-banner-01.jpg",
+      "title": "Những màu sắc từ mùa đông sang mùa xuân như thảm lông, gối ôm… đã không còn phù hợp với không khí mùa hè. Tuy nhiên bạn không cần thay đổi hoàn toàn đồ nội thất trong phòng khách của mình, vì chỉ với vài bước đơn giản dưới đây, bạn đã có thể “khoác áo mới” cho phòng khách.",
+      "description": "Chỉ với những cách làm rất đơn giản như may áo mới cho ghế sofa, sơn tường nhà với sắc xanh nước biển làm chủ đạo, thêm những chậu hoa nhỏ xinh hay đơn giản chỉ là mở toang khung cửa sổ để nắng mai rọi vào mỗi sáng sớm… cũng đã đủ để thiết kế nội thất phòng khách trở nên ấn tượng hơn. Bộ sofa bắt mắt hơn rất nhiều với chiếc “áo khoác” mới mang sắc đỏ rực rỡ, nổi bật, tạo điểm nhấn cho toàn bộ không gian và cũng gợi màu phượng lửa học trò, rất duyên. Gam màu xanh mang lại cảm giác rất mát mắt, như mang cả sắc màu và hơi thở của biển vào nhà, “đánh đuổi” không khí oi nồng của mùa hè một cách hiệu quả. Còn đây là những ô cửa sổ tràn ngập sắc xanh của cây lá, vừa thanh lọc không khí, vừa tạo vẻ đẹp mỹ quan và đồng thời cũng giúp cho ngôi nhà trở nên mát mẻ hơn khi gần kề với thiên nhiên. Hãy tận dụng những tia nắng mai dọi vào từ khung cửa sổ, căn phòng sẽ trở nên tươi mới hơn. Nồng và oi ả là 2 cảm giác rất “khó ưa” mà mùa hè mang lại, để tránh được 2 cảm giác khó chịu này cho phòng khách thì bạn cần bố trí các vật dụng thật thoãng đãng, cách này đồng thời mang lại sự thoải mái khi sử dụng. Sự kết hợp của các gam vàng đến từ nắng và xanh của lá tạo nên bản hòa ca rất tuyệt diệu ru giấc trưa nồng oi ả, mang lại cảm giác mát dịu mà không kém phần sôi nổi cho không gian. Sử dụng rèm treo có màu sắc nhẹ nhàng, thanh thoát với chất liệu mềm mại cũng là một cách để vừa tăng vẻ đẹp cho tổng thể thiết kế nội thất, vừa giúp cản và lọc bớt sức nóng của những tia nắng gắt vào giữa trưa. Trong trường hợp không muốn có sự xuất hiện của các gam màu nóng, bạn có thể chọn dùng những gam nhạt hơn để trang trí phòng cho mùa hè, tăng cường sự dịu mát trước cái nóng như đổ lửa vào mùa hè. Không chỉ sử dụng, bố trí những đồ nội thất phù hợp với không khí ngày hè, bạn có thể mang cả thiên nhiên vào phòng với những chậu cây xanh. Từ bậc cửa lối vào đến từng khung cửa sổ bạn có thể trang trí cây hoa phù hợp với từng không gian. Không cần quá tốn kém cầu kỳ bạn sẽ có được không gian sống tuyệt vời và thư thái cho những ngày hè rực rỡ."
+    }
+  ],
+  "users": [
+    {
+      "fullname": "Ngô Tiến Đạt",
+      "email": "sheyy3103@gmail.com",
+      "password": "03102003tiendat",
+      "id": 1
+    }
+  ],
+  "contact": [
+    {
+      "fullname": "Ngô Tiến Đạt",
+      "email": "sheyy3103@gmail.com",
+      "phone": "0363863581",
+      "message": "yêu ems\n",
+      "id": 1
+    }
+  ]
 }
