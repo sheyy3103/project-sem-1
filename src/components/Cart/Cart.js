@@ -130,7 +130,7 @@ function Cart() {
                         </div>
                         <div className={cx('fz18','d-flex align-items-center justify-content-between pt-2')}>
                             <span className="">Phương thức thanh toán</span>
-                            <select className={cx('custom-select', 'w-45')}>
+                            <select className={cx('custom-select', 'w-45','px-4')}>
                                 <option>-- Chọn --</option>
                                 <option>Thanh toán khi nhận hàng</option>
                             </select>
