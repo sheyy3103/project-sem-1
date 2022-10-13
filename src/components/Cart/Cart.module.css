@@ -31,10 +31,6 @@
     color: white;
 }
 
-.btn-outline-cus{
-    border-radius: 0 !important;
-    background-color: transparent;
-}
 
 .form-discount{
     border: 2px solid rgb(247, 19, 19);
@@ -42,4 +38,7 @@
 
 .fz18{
     font-size: 18px !important;
+}
+.fz20{
+    font-size: 20px !important;;
 }

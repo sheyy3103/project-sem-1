@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import styles from './DetailsProduct.module.css'
 import classNames from 'classnames/bind'
-import { useParams } from 'react-router-dom'
+import { useNavigate, useParams } from 'react-router-dom'
 import * as ProductServices from '../../services/ProductServices'
 import { AiOutlineMinus, AiOutlinePlus } from 'react-icons/ai'
 import { addToCart } from '../../redux/actions/cart'
@@ -11,6 +11,7 @@ import {useDispatch} from 'react-redux'
 let cx = classNames.bind(styles)
 
 function DetailsProduct() {
+    const navigate = useNavigate();
     let { id } = useParams();
     const [details, setDetails] = useState({});
     const [quantity, setQuantity] = useState(1);
@@ -30,6 +31,7 @@ function DetailsProduct() {
             text: 'Sản phẩm của bạn đã được thêm vào giỏ',
             timer: 1500
         })
+        navigate('/cart')
 
     }
     return (
